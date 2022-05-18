@@ -1,0 +1,1543 @@
+,label,portion_info,energy,protein,total_fat,carbs,fibre,sodium,portion_size,region
+A001,"Corn grits, white",Per 100 g,357,8.3,1.5,77.5,4.5,1,100,PH
+A002,"Corn grits, yellow",Per 100 g,350,7.7,0.8,78.1,1.6,1,100,PH
+A003,"Corn on cob, white",Per 100 g,148,4.4,0.8,30.9,4.1,23,100,PH
+A004,"Corn on cob, yellow",Per 100 g,173,4.4,1.5,35.4,3.5,3,100,PH
+A005,"Corn on cob, yellow, boiled",Per 100 g,167,3.3,1.2,35.7,3.7,1,100,PH
+A006,"Cornmeal, white",Per 100 g,353,7.6,0.6,79.2,7.1,34,100,PH
+A007,"Cornmeal, yellow",Per 100 g,371,8.5,3.2,77.0,7.3,35,100,PH
+A008,Job's tears grain,Per 100 g,368,13.1,2.5,73.3,9.0,42,100,PH
+A009,"Millet, glutinous",Per 100 g,353,10.3,2.5,72.3,8.0,5,100,PH
+A010,Rice bran,Per 100 g,316,7.8,5.0,59.9,19.3,13,100,PH
+A011,"Rice, glutinous, parboiled, flattened",Per 100 g,340,4.3,1.0,78.5,1.7,7,100,PH
+A012,"Rice, milled, glutinous",Per 100 g,355,6.9,0.8,80.1,2.8,4,100,PH
+A013,"Rice, milled, glutinous, milled w/ water",Per 100 g,210,4.4,0.1,47.9,1.6,2,100,PH
+A014,"Rice, undermilled",Per 100 g,363,8.1,2.8,76.3,3.0,9,100,PH
+A015,"Rice, undermilled, glutinous, purple",Per 100 g,358,8.7,2.0,76.3,2.8,2,100,PH
+A016,"Rice, undermilled, glutinous, purple, boiled",Per 100 g,124,2.4,0.4,27.8,1.3,7,100,PH
+A017,"Rice, undermilled, red",Per 100 g,358,7.5,0.9,80.0,4.6,2,100,PH
+A019,"Rice, well-milled",Per 100 g,356,7.4,0.5,80.4,1.3,1,100,PH
+A020,"Rice, well-milled, boiled",Per 100 g,129,2.1,0.2,29.7,0.4,3,100,PH
+A021,"Rice, well-milled, fried",Per 100 g,187,2.6,4.0,35.2,0.5,4,100,PH
+A022,Rice-corn mixture (1:1),Per 100 g,366,7.5,1.0,81.8,2.9,1,100,PH
+A023,"Rice-corn mixture (1:1), boiled",Per 100 g,96,2.2,0.3,21.0,1.0,0,100,PH
+A024,Sorghum,Per 100 g,382,9.5,3.9,77.1,7.0,2,100,PH
+A025,"Sorghum, boiled",Per 100 g,150,3.5,1.0,31.7,2.8,1,100,PH
+A026,"Ampaw, pinipig",Per 100 g,392,3.1,1.6,91.3,1.4,5,100,PH
+A027,"Ampaw, rice",Per 100 g,385,4.5,2.1,87.1,1.4,5,100,PH
+A028,Bicho-bicho,Per 100 g,376,7.4,14.0,55.2,1.5,390,100,PH
+A029,"Biscuit, cocohoney",Per 100 g,453,7.0,14.7,73.2,8.7,30,100,PH
+A030,"Bread, w/ margarine & sugar filling",Per 100 g,371,9.3,12.4,55.5,1.0,-,100,PH
+A031,"Bread, brown",Per 100 g,313,12.1,0.9,64.1,4.8,614,100,PH
+A032,"Bread, cheese roll",Per 100 g,342,10.1,13.5,45.1,1.2,357,100,PH
+A033,"Bread, cinnamon roll",Per 100 g,387,9.1,13.1,58.1,2.6,329,100,PH
+A034,"Bread, hotdog roll",Per 100 g,320,10.2,3.8,61.3,2.4,577,100,PH
+A035,"Bread, toasted, w/ margarine-sugar topping",Per 100 g,412,9.3,7.4,77.1,6.3,599,100,PH
+A036,"Bread, mung bean loaf",Per 100 g,352,13.5,8.3,55.8,4.4,163,100,PH
+A037,"Bread, pan de bonete",Per 100 g,329,12.3,4.4,60.0,2.5,592,100,PH
+A038,"Bread, pan de coco",Per 100 g,349,9.2,7.6,60.9,6.6,262,100,PH
+A039,"Bread, pan de leche",Per 100 g,323,10.5,3.0,63.5,2.5,527,100,PH
+A040,"Bread, pan de limon",Per 100 g,321,10.6,3.9,60.9,2.4,579,100,PH
+A041,"Bread, pan de monay",Per 100 g,318,10.6,3.4,61.3,2.4,582,100,PH
+A042,"Bread, pan de sal",Per 100 g,330,10.1,4.2,62.9,2.5,596,100,PH
+A043,"Bread, raisin",Per 100 g,295,9.4,4.6,53.9,4.5,409,100,PH
+A044,"Bread, rye",Per 100 g,304,12.1,3.5,56.0,6.9,457,100,PH
+A045,"Bread, sweet roll",Per 100 g,326,8.6,5.0,61.6,1.3,383,100,PH
+A046,"Bread, sweet roll w/ mung bean filling",Per 100 g,307,9.6,2.1,62.5,4.2,155,100,PH
+A047,"Bread, toasted",Per 100 g,349,11.2,5.3,64.2,2.9,698,100,PH
+A048,"Bread, white, loaf",Per 100 g,329,9.7,5.1,61.1,3.3,592,100,PH
+A049,Bunuelos,Per 100 g,497,9.5,34.8,36.4,1.4,400,100,PH
+A050,"Cake, angel food",Per 100 g,262,7.2,0.3,57.7,1.5,741,100,PH
+A051,"Cake, banana",Per 100 g,331,5.4,13.4,47.2,1.0,287,100,PH
+A052,"Cake, butter",Per 100 g,399,2.8,20.4,51.0,0.6,382,100,PH
+A053,"Cake, cheese cupcake",Per 100 g,410,5.6,16.4,60.0,2.2,797,100,PH
+A054,"Cake, chiffon",Per 100 g,332,7.2,11.6,49.8,0.5,622,100,PH
+A055,"Cake, chocolate",Per 100 g,373,5.6,12.6,59.3,2.2,352,100,PH
+A056,"Cake, cream-filled roll",Per 100 g,366,9.2,16.3,45.6,0.9,421,100,PH
+A057,"Cake, fruit",Per 100 g,365,5.0,14.6,53.4,3.7,100,100,PH
+A058,"Cake, jelly roll",Per 100 g,326,5.3,2.8,69.9,0.6,160,100,PH
+A059,"Cake, kababayan",Per 100 g,361,6.3,9.9,61.6,3.4,595,100,PH
+A060,"Cake, mamon",Per 100 g,368,5.4,10.7,62.6,0.6,704,100,PH
+A061,"Cake, mamon, toasted",Per 100 g,416,10.4,6.7,78.5,3.9,258,100,PH
+A062,"Cake, marshmallow roll",Per 100 g,338,6.5,5.1,66.4,1.7,164,100,PH
+A063,"Cake, mocha roll",Per 100 g,353,6.7,9.0,61.2,1.0,456,100,PH
+A064,"Cake, pineapple roll",Per 100 g,255,3.5,2.5,54.5,0.7,287,100,PH
+A065,"Cake, sponge",Per 100 g,306,8.2,5.3,56.3,0.5,629,100,PH
+A066,"Chips, cheese flvr",Per 100 g,489,7.2,24.1,60.7,5.0,672,100,PH
+A067,"Chips, corn, bbq flvr",Per 100 g,535,6.5,30.7,58.1,5.2,758,100,PH
+A068,"Chips, corn, nacho cheese flvr",Per 100 g,528,7.5,30.0,57.1,3.9,682,100,PH
+A069,"Chips, corn, natural flvr",Per 100 g,527,5.9,29.1,60.3,4.0,514,100,PH
+A070,"Chips, corn-potato based, cheese flvr",Per 100 g,540,3.1,33.4,56.8,5.1,453,100,PH
+A071,"Chips, corn, taco & bbq flvr",Per 100 g,527,4.2,29.0,62.4,5.2,758,100,PH
+A072,"Chips, corn, taco flvr",Per 100 g,515,6.8,27.4,60.2,4.0,785,100,PH
+A073,"Chips, fish crackers",Per 100 g,456,5.0,16.6,71.7,0.7,745,100,PH
+A074,"Chips, fish kroepeck",Per 100 g,502,4.0,27.0,60.8,0.7,729,100,PH
+A075,"Chips, prawn crackers",Per 100 g,442,6.8,13.1,74.2,0.9,751,100,PH
+A076,"Chips, prawn crackers, flvrd",Per 100 g,543,3.9,33.0,57.7,0.9,750,100,PH
+A077,"Chips, shrimp crackers",Per 100 g,462,6.0,18.4,68.1,0.9,740,100,PH
+A078,"Chips, shrimp kroepeck",Per 100 g,493,7.3,24.4,61.1,0.9,747,100,PH
+A079,"Chips, squid crackers",Per 100 g,434,7.4,12.4,73.1,0.9,748,100,PH
+A080,"Chips, sticks, onion flvr",Per 100 g,514,5.4,27.2,62.0,3.9,944,100,PH
+A081,"Chips, tortilla, bbq flvr",Per 100 g,489,7.2,23.3,62.7,5.3,784,100,PH
+A082,"Chips, tortilla, nacho cheese flvr",Per 100 g,496,7.4,23.2,64.4,5.1,687,100,PH
+A083,"Cookies, apas",Per 100 g,388,5.4,0.5,90.4,1.1,357,100,PH
+A084,"Cookies, arrowroot",Per 100 g,417,1.1,8.5,83.9,0.2,318,100,PH
+A085,"Cookies, assorted",Per 100 g,442,6.2,11.3,78.9,1.1,413,100,PH
+A086,"Cookies, brownies",Per 100 g,417,7.4,16.8,59.1,2.1,282,100,PH
+A087,"Cookies, butter",Per 100 g,508,8.3,24.1,64.5,0.8,362,100,PH
+A088,"Cookies, camachili",Per 100 g,443,7.8,12.2,75.6,3.1,734,100,PH
+A089,"Cookies, gem",Per 100 g,426,11.0,9.7,73.6,0.9,250,100,PH
+A090,"Cookies, jacobina special",Per 100 g,449,7.0,13.3,75.4,2.5,369,100,PH
+A091,"Cookies, lady finger",Per 100 g,388,8.6,6.5,73.7,1.1,163,100,PH
+A092,"Cookies, marie",Per 100 g,421,8.1,8.9,77.1,1.1,402,100,PH
+A093,"Cookies, ogoy-ogoy",Per 100 g,441,8.3,11.8,75.3,2.5,367,100,PH
+A094,"Cookies, otap",Per 100 g,462,10.1,14.3,73.3,2.5,374,100,PH
+A095,"Cookies, pasencia",Per 100 g,397,6.9,3.3,84.9,1.1,402,100,PH
+A096,"Cookies, pili nut",Per 100 g,532,6.6,28.3,62.6,2.2,364,100,PH
+A097,"Cookies, pilipit",Per 100 g,470,6.7,17.0,72.6,2.4,564,100,PH
+A098,"Cookies, polvoron",Per 100 g,478,5.2,19.2,71.0,1.3,351,100,PH
+A099,"Cookies, sandwich type, choc-filled",Per 100 g,515,5.7,24.9,67.1,5.6,223,100,PH
+A100,"Cookies, sandwich type, cream-filled",Per 100 g,472,5.9,18.0,71.7,2.9,388,100,PH
+A101,"Cookies, vanilla wafer, choc-coated",Per 100 g,510,5.4,24.2,67.7,3.5,598,100,PH
+A102,"Cookies, wafer",Per 100 g,505,4.6,22.9,70.0,1.6,103,100,PH
+A103,"Corn flakes, enr",Per 100 g,387,8.2,0.6,87.2,3.4,838,100,PH
+A104,Corn pudding,Per 100 g,149,1.3,1.1,33.4,1.9,14,100,PH
+A105,"Corn pudding, w/ grtd coconut topping",Per 100 g,187,1.0,1.4,42.6,1.9,14,100,PH
+A106,"Corn pudding, maja, yellow",Per 100 g,127,1.1,1.3,27.6,2.2,13,100,PH
+A107,"Corn pudding, maja, yellow w/ grtd coconut topping",Per 100 g,151,1.8,1.3,32.9,2.2,13,100,PH
+A108,"Corn, fried, seasoned",Per 100 g,483,8.5,21.8,63.2,2.1,1139,100,PH
+A109,"Corn, whole kernel, cnd",Per 100 g,70,1.3,0.4,15.4,2.1,167,100,PH
+A110,Cornstarch,Per 100 g,370,0.3,0.3,91.5,0.9,9,100,PH
+A111,"Cracker, egg",Per 100 g,422,15.0,8.1,72.3,2.9,22,100,PH
+A112,"Cracker, graham, honey-flvr",Per 100 g,423,8.0,8.1,79.5,3.4,462,100,PH
+A113,"Cracker, plain",Per 100 g,482,7.5,19.7,68.7,3.0,777,100,PH
+A114,"Cracker, salted",Per 100 g,480,9.6,19.9,65.5,2.9,961,100,PH
+A115,"Cracker, salted, round",Per 100 g,505,7.2,24.7,63.4,2.9,962,100,PH
+A116,Cream puff,Per 100 g,293,5.4,7.5,50.9,0.9,278,100,PH
+A117,"Curls, bbq flvr",Per 100 g,455,7.8,15.5,71.1,2.2,886,100,PH
+A119,"Curls, cheese flvr",Per 100 g,447,7.6,15.4,69.5,2.1,871,100,PH
+A121,"Curls, prawn flvr",Per 100 g,483,7.2,20.2,68.0,2.2,902,100,PH
+A122,"Curls, shrimp flvr",Per 100 g,419,6.6,9.0,77.9,2.2,881,100,PH
+A124,"Doughnut, fried, w/ sugar",Per 100 g,431,7.5,22.7,49.2,1.5,404,100,PH
+A125,Gurgurya,Per 100 g,515,6.7,26.5,62.4,2.4,560,100,PH
+A126,Hominy,Per 100 g,126,3.0,1.4,25.4,4.3,596,100,PH
+A127,Hopyang baboy,Per 100 g,414,5.0,13.1,69.1,1.0,125,100,PH
+A128,Hopyang Hapon,Per 100 g,352,8.7,5.7,66.4,1.3,18,100,PH
+A129,Hopyang munggo,Per 100 g,383,6.5,12.0,62.3,1.2,18,100,PH
+A130,Karyoka,Per 100 g,359,4.2,12.1,58.2,1.0,7,100,PH
+A131,"Lohuwa, peanut",Per 100 g,500,16.9,25.6,50.6,0.6,428,100,PH
+A132,"Lohuwa, rice",Per 100 g,415,3.4,8.4,81.4,0.6,424,100,PH
+A133,"Lohuwa, sesame seed",Per 100 g,473,10.7,19.1,64.5,0.6,434,100,PH
+A134,"Noodles, mung bean starch",Per 100 g,345,0.2,0.2,85.5,0.5,7,100,PH
+A135,"Noodles, mung bean starch, boiled",Per 100 g,78,0.0,0.1,19.3,0.1,2,100,PH
+A136,"Noodles, rice, fideos",Per 100 g,357,9.6,0.4,78.7,1.6,6,100,PH
+A137,"Noodles, rice",Per 100 g,353,2.7,0.5,84.5,1.6,13,100,PH
+A138,"Noodles, rice, boiled",Per 100 g,115,0.5,0.6,26.9,1.1,4,100,PH
+A140,"Noodles, wheat, canton, dry",Per 100 g,487,12.8,23.2,56.8,3.6,676,100,PH
+A141,"Noodles, wheat, mami, fresh",Per 100 g,73,6.8,0.2,10.9,0.8,178,100,PH
+A142,"Noodles, wheat, inst, w/ flvr",Per 100 g,433,10.4,18.1,57.1,2.9,1956,100,PH
+A143,"Noodles, wheat, inst, w/ flvr, fortified",Per 100 g,465,9.2,22.3,56.8,3.0,1903,100,PH
+A144,"Noodles, wheat, thin",Per 100 g,344,12.2,0.3,73.0,4.2,1406,100,PH
+A145,"Noodles, wheat, thin, boiled",Per 100 g,100,0.9,0.1,23.8,1.2,395,100,PH
+A146,"Noodles, wheat, miki, dry",Per 100 g,472,12.4,22.4,55.3,3.3,440,100,PH
+A147,"Noodles, wheat, miki, dry, boiled",Per 100 g,110,1.7,2.9,19.2,0.9,4,100,PH
+A148,"Oatmeal, instant",Per 100 g,394,10.0,4.7,77.9,10.5,231,100,PH
+A149,"Oats, quick-cooking",Per 100 g,423,11.4,9.1,73.8,10.9,6,100,PH
+A150,"Oats, quick-cooking, ckd",Per 100 g,60,1.6,1.1,11.0,1.4,3,100,PH
+A151,Pancake,Per 100 g,269,8.4,7.6,41.8,2.3,554,100,PH
+A152,"Pasta, macaroni",Per 100 g,353,14.3,0.2,73.5,3.1,2,100,PH
+A153,"Pasta, spaghetti",Per 100 g,361,12.4,1.1,75.4,3.2,6,100,PH
+A154,"Pasta, spaghetti, boiled",Per 100 g,156,5.5,0.1,33.3,1.9,1,100,PH
+A155,"Popcorn and peanuts, sweetn",Per 100 g,447,5.1,12.8,77.8,3.8,177,100,PH
+A156,"Popcorn, salted",Per 100 g,471,6.7,18.6,69.2,9.9,875,100,PH
+A157,"Popcorn, sweetn",Per 100 g,443,4.0,11.0,81.9,5.2,207,100,PH
+A158,"Pretzel, choc-coated",Per 100 g,475,8.1,18.6,68.8,3.5,498,100,PH
+A159,"Pretzel, sweetn",Per 100 g,442,8.5,11.1,76.9,2.4,578,100,PH
+A160,"Pudding, pineapple",Per 100 g,268,4.7,1.7,58.5,2.1,0,100,PH
+A161,"Pudding, raisin",Per 100 g,221,8.1,2.9,40.5,1.2,116,100,PH
+A162,"Pudding, vanilla",Per 100 g,286,6.2,1.5,61.8,0.0,354,100,PH
+A163,"Puffs, bbq flvr",Per 100 g,445,7.5,14.6,70.9,2.1,865,100,PH
+A164,"Puffs, cheese flvr",Per 100 g,503,6.0,26.5,60.0,2.1,872,100,PH
+A165,"Puffs, chicken flvr",Per 100 g,449,6.8,13.4,75.2,2.2,889,100,PH
+A166,"Puffs, spiced",Per 100 g,418,7.4,8.9,77.0,2.2,881,100,PH
+A167,"Rice cake (glutinous), bibingka",Per 100 g,256,2.8,1.0,59.0,2.1,69,100,PH
+A168,"Rice cake (glutinous), biko",Per 100 g,252,2.2,0.9,58.7,2.0,94,100,PH
+A169,"Rice cake (glutinous), biko, w/ grtd coconut topping",Per 100 g,246,3.3,1.6,54.7,2.1,92,100,PH
+A170,"Rice cake (glutinous), biko, w/ purple rice",Per 100 g,227,2.6,0.4,53.2,1.4,177,100,PH
+A171,"Rice cake (glutinous), Chinese, tikoy",Per 100 g,250,2.5,0.3,59.4,1.2,4,100,PH
+A172,"Rice cake (glutinous), Chinese, tikoy, w/ peanut",Per 100 g,247,6.4,1.8,51.4,1.4,4,100,PH
+A173,"Rice cake, bibingka",Per 100 g,234,3.6,0.9,52.9,0.8,139,100,PH
+A174,"Rice cake, bibingka, w/ cheese & coconut topping",Per 100 g,223,2.8,2.6,47.2,1.0,313,100,PH
+A175,"Rice cake, puto bumbong, purple",Per 100 g,252,3.5,1.3,56.5,1.7,71,100,PH
+A176,"Rice cake, puto, brown",Per 100 g,206,2.0,0.1,49.3,1.5,225,100,PH
+A177,"Rice cake, puto, white",Per 100 g,214,2.8,0.3,49.9,1.5,225,100,PH
+A178,"Rice cake, puto, white, w/ grtd coconut topping",Per 100 g,209,2.7,1.1,47.1,2.1,205,100,PH
+A179,"Rice cake, cuchinta",Per 100 g,166,1.4,0.8,38.4,0.7,86,100,PH
+A180,"Rice cake, cuchinta, w/ grtd coconut topping",Per 100 g,165,1.6,3.2,32.4,1.6,78,100,PH
+A181,Rice flour,Per 100 g,358,7.6,0.3,81.3,2.4,3,100,PH
+A182,"Rice flour prep, tamales",Per 100 g,101,1.3,0.9,21.8,2.2,230,100,PH
+A183,"Rice gruel, thin",Per 100 g,71,1.4,1.1,13.9,0.1,1,100,PH
+A184,"Rice prep (glutinous), butse, w/ mung bean filling",Per 100 g,329,6.4,12.0,48.9,2.9,6,100,PH
+A185,"Rice prep (glutinous), butse, w/ sweet potato filling",Per 100 g,310,5.6,8.2,53.5,2.0,13,100,PH
+A186,"Rice prep (glutinous), kalamay, w/ coconut curd topping",Per 100 g,208,2.7,0.4,48.5,2.1,16,100,PH
+A187,"Rice prep (glutinous), kalamay, w/ yam",Per 100 g,178,2.2,0.3,41.7,2.3,8,100,PH
+A188,"Rice prep (glutinous), palitaw",Per 100 g,206,2.6,2.8,42.5,1.4,4,100,PH
+A189,"Rice prep (glutinous), palitaw, w/ grtd coconut & sugar",Per 100 g,213,2.6,4.5,40.5,2.0,5,100,PH
+A190,"Rice prep (glutinous), sapin-sapin",Per 100 g,129,1.1,0.4,30.3,2.0,26,100,PH
+A191,"Rice prep (glutinous), suman sa ibos",Per 100 g,171,3.1,0.7,38.0,2.2,367,100,PH
+A192,"Rice prep (glutinous), suman, lye-treated",Per 100 g,191,3.2,0.4,43.6,1.4,82,100,PH
+A193,"Rice prep (glutinous), suman, w/ grtd coconut topping",Per 100 g,211,2.6,2.4,44.8,2.4,12,100,PH
+A194,"Rice prep (glutinous), tupig",Per 100 g,300,3.6,2.6,65.6,2.3,11,100,PH
+A195,"Rice prep, espasol",Per 100 g,312,4.0,3.6,65.8,2.1,124,100,PH
+A196,"Rice water, ckd, thin",Per 100 g,17,0.1,0.2,3.8,0.0,0,100,PH
+A197,"Rice, crispies",Per 100 g,373,3.0,0.6,88.8,0.4,519,100,PH
+A198,"Rice-bread prep, toasted, puto seko",Per 100 g,388,6.0,1.8,87.0,0.8,469,100,PH
+A199,"Rice-bread prep, toasted, puto seko, w/ grtd coconut",Per 100 g,402,4.4,5.5,83.8,1.5,427,100,PH
+A200,"Spring roll wrapper, plain",Per 100 g,316,10.6,0.5,67.2,2.0,140,100,PH
+A201,"Wheat flour, all-purpose",Per 100 g,352,12.6,0.8,73.7,2.7,4,100,PH
+A202,"Wheat flour, all-purpose, enr, bleached",Per 100 g,377,11.0,3.6,75.2,2.8,2,100,PH
+A203,"Wheat flour, cake flour, enr, bleached",Per 100 g,370,8.9,1.7,79.7,1.8,2,100,PH
+A204,"Instant noodles, chicken flvr, raw",Per 100 g,429,10.5,17.5,57.3,2.5,2910,100,PH
+A205,"Instant noodles, chicken flvr, ckd",Per 100 g,48,1.3,2.1,6.0,0.0,320,100,PH
+B001,Cassava,Per 100 g,145,0.6,0.2,35.3,1.7,2,100,PH
+B002,"Cassava, boiled",Per 100 g,111,0.4,0.1,27.1,1.3,3,100,PH
+B003,"Cassava, yellow",Per 100 g,155,0.7,0.2,37.7,1.7,14,100,PH
+B004,East Indian arrowroot,Per 100 g,144,3.1,0.1,32.6,2.5,50,100,PH
+B005,"East Indian arrowroot, boiled",Per 100 g,88,3.1,0.2,18.5,1.5,31,100,PH
+B006,Palauan,Per 100 g,153,0.5,0.2,37.3,5.4,14,100,PH
+B007,Potato,Per 100 g,78,2.4,0.1,16.8,2.1,29,100,PH
+B008,"Potato, boiled",Per 100 g,63,1.7,0.1,13.7,1.3,4,100,PH
+B009,"Sweet potato, purple",Per 100 g,125,0.6,0.4,29.8,4.2,1,100,PH
+B010,"Sweet potato, purple, boiled",Per 100 g,122,0.6,0.2,29.5,4.0,43,100,PH
+B011,"Sweet potato, white",Per 100 g,105,0.7,0.5,24.3,3.5,3,100,PH
+B012,"Sweet potato, white, boiled",Per 100 g,126,0.4,0.8,29.3,3.9,42,100,PH
+B013,"Sweet potato, yellow",Per 100 g,135,1.1,0.4,31.8,4.6,4,100,PH
+B014,"Sweet potato, yellow, boiled",Per 100 g,128,0.5,0.3,30.7,4.0,43,100,PH
+B015,Taro,Per 100 g,141,2.3,0.2,32.6,5.0,13,100,PH
+B016,"Taro, boiled",Per 100 g,105,1.5,0.1,24.4,3.7,11,100,PH
+B017,White spot arum,Per 100 g,61,3.1,0.2,11.7,2.1,5,100,PH
+B018,"Yam, Luzon",Per 100 g,99,2.5,0.1,22.1,3.4,7,100,PH
+B019,"Yam, nami",Per 100 g,105,2.3,0.3,23.3,3.6,8,100,PH
+B020,"Yam, purple",Per 100 g,97,1.7,0.2,22.2,3.4,7,100,PH
+B021,"Yam, purple, boiled",Per 100 g,77,0.7,0.1,18.2,2.6,5,100,PH
+B022,"Yam, spiny",Per 100 g,141,1.0,2.7,28.2,4.4,10,100,PH
+B023,"Yam, spiny, boiled",Per 100 g,69,0.4,1.2,14.1,2.1,4,100,PH
+B024,Yautia,Per 100 g,122,0.8,0.1,29.4,1.7,24,100,PH
+B025,Arrowroot starch,Per 100 g,351,0.1,0.5,86.4,3.4,2,100,PH
+B026,"Cassava cake, bibingka",Per 100 g,181,0.4,0.3,44.1,1.6,26,100,PH
+B027,Cassava flour,Per 100 g,362,1.1,0.7,87.8,0.9,1,100,PH
+B028,Cassava fritter,Per 100 g,360,0.7,10.0,66.7,5.0,295,100,PH
+B029,Cassava pudding,Per 100 g,203,1.2,0.5,48.4,0.0,261,100,PH
+B030,"Cassava, mashed, w/ sugar & marg",Per 100 g,183,0.4,1.3,42.4,1.3,60,100,PH
+B031,"Cassava, suman",Per 100 g,210,0.5,1.4,48.9,1.4,6,100,PH
+B032,East Indian arrowroot starch,Per 100 g,348,0.1,0.5,85.8,3.3,2,100,PH
+B033,"Potato chips, cheese flvr",Per 100 g,556,6.2,36.0,51.8,5.1,720,100,PH
+B034,"Potato, French-fried",Per 100 g,328,3.7,16.8,40.5,3.9,187,100,PH
+B035,Tapioca starch ball,Per 100 g,341,0.4,1.1,82.4,0.5,11,100,PH
+B036,"Tapioca starch ball, boiled",Per 100 g,83,0.0,0.2,20.3,0.1,3,100,PH
+B037,"Sweet potato, w/ sugar, fried",Per 100 g,239,1.1,6.9,43.1,4.3,7,100,PH
+B038,"Yam, nami, brined",Per 100 g,66,1.0,0.2,15.0,2.2,136,100,PH
+B039,"Yam, nami, dried",Per 100 g,351,6.6,0.4,80.3,11.9,26,100,PH
+B040,"Yam, purple, pudding",Per 100 g,187,1.2,0.8,43.8,1.7,12,100,PH
+B041,"Yam, purple, pudding,w/ grtd coconut topping",Per 100 g,191,1.7,1.2,43.4,2.0,14,100,PH
+B042,"Yacon tuber, raw",Per 100 g,35,0.4,0.1,8.1,0.7,27,100,PH
+B043,"Sweet potato, orange",Per 100 g,121,1.1,0.3,28.4,2.9,83,100,PH
+C002,"Cashew nut, roasted",Per 100 g,603,19.2,47.4,24.8,2.9,15,100,PH
+C003,"Chestnut, roasted",Per 100 g,256,5.0,1.2,56.4,5.5,5,100,PH
+C004,"Chickpea, dried",Per 100 g,377,19.2,6.2,61.2,11.8,7,100,PH
+C005,"Chickpea, dried, boiled",Per 100 g,198,5.7,2.0,39.2,9.1,8,100,PH
+C006,"Coconut meat, mature",Per 100 g,319,3.9,26.1,17.2,8.2,18,100,PH
+C007,"Coconut meat, very young",Per 100 g,42,0.8,1.3,6.8,0.6,10,100,PH
+C008,"Coconut meat, young",Per 100 g,102,1.4,5.3,12.1,1.2,21,100,PH
+C009,Coconut sport,Per 100 g,226,2.4,17.6,14.5,2.1,38,100,PH
+C010,"Cowpea seed, dried",Per 100 g,358,20.4,1.5,65.8,11.0,15,100,PH
+C011,"Davao wonder bean seed, dried",Per 100 g,351,23.4,2.7,58.3,10.5,16,100,PH
+C014,"Coastal jack-bean seed, dried",Per 100 g,364,24.1,2.8,60.7,25.4,13,100,PH
+C015,"Coastal jack-bean seed, dried, boiled",Per 100 g,170,9.6,1.1,30.3,8.0,7,100,PH
+C016,"Java olive seed, dried",Per 100 g,603,15.4,45.0,34.1,12.8,1,100,PH
+C017,"Kaatoan bangkal seed, dried",Per 100 g,339,14.4,0.4,69.5,-,-,100,PH
+C018,"Kidney bean seed, black, dried",Per 100 g,374,20.2,1.9,69.1,16.5,5,100,PH
+C019,"Kidney bean seed, black, dried, boiled",Per 100 g,117,3.9,0.6,24.1,7.6,1,100,PH
+C020,"Kidney bean seed, red, dried",Per 100 g,348,19.3,1.5,64.2,15.2,12,100,PH
+C021,"Kidney bean seed, red, dried, boiled",Per 100 g,138,7.9,0.9,24.6,7.9,2,100,PH
+C022,"Kidney bean seed, white, dried",Per 100 g,354,18.8,1.1,67.1,15.5,16,100,PH
+C023,"Kidney bean seed, white, dried, boiled",Per 100 g,142,6.5,0.7,27.3,6.1,6,100,PH
+C024,"Lima bean seed, dried",Per 100 g,348,19.8,1.0,64.9,19.0,18,100,PH
+C025,"Marang seed, dried",Per 100 g,305,7.4,12.5,40.7,7.4,36,100,PH
+C026,"Marang seed, dried, boiled",Per 100 g,238,5.7,7.6,36.6,6.0,29,100,PH
+C027,"Mung bean seed, green, dried",Per 100 g,348,23.2,1.6,60.1,18.4,24,100,PH
+C028,"Mung bean seed, green, dried, boiled",Per 100 g,155,11.0,0.3,27.1,11.1,3,100,PH
+C029,"Mung bean seed, red, dried",Per 100 g,347,22.2,1.0,62.2,18.4,24,100,PH
+C030,"Mung bean seed, red, dried, boiled",Per 100 g,150,6.9,0.7,28.9,10.6,3,100,PH
+C031,"Mung bean seed, yellow, dried",Per 100 g,365,23.5,1.4,64.5,19.3,25,100,PH
+C032,"Mung bean seed, yellow, dried, boiled",Per 100 g,116,7.2,0.3,21.1,8.3,2,100,PH
+C033,"Negro coffee seed, dried",Per 100 g,373,17.5,2.6,69.8,-,-,100,PH
+C034,Peanut w/ shell,Per 100 g,401,17.4,26.6,22.9,6.2,13,100,PH
+C035,"Peanut w/ shell, boiled",Per 100 g,315,13.0,22.4,15.3,4.7,10,100,PH
+C036,"Peanut w/ skin, roasted",Per 100 g,621,32.1,50.7,9.1,8.1,6,100,PH
+C037,Peanut w/o skin,Per 100 g,617,25.8,49.5,17.1,8.6,18,100,PH
+C038,"Peanut w/o skin, roasted",Per 100 g,629,33.2,51.8,7.6,8.2,6,100,PH
+C039,"Pigeon pea seed, dried",Per 100 g,348,21.2,1.2,63.2,15.0,17,100,PH
+C040,"Pigeon pea seed, dried, boiled",Per 100 g,125,5.7,0.6,24.3,6.8,5,100,PH
+C041,Pili nut,Per 100 g,699,14.2,68.5,6.4,-,3,100,PH
+C042,"Rice bean seed, dried",Per 100 g,356,18.4,3.1,63.7,16.0,9,100,PH
+C043,"Sesame seed, dried",Per 100 g,642,25.1,53.5,15.1,12.0,36,100,PH
+C044,"Soybean seed, dried",Per 100 g,442,35.8,17.2,35.9,9.5,2,100,PH
+C045,"Soybean seed, black, dried",Per 100 g,451,36.6,19.8,31.6,9.5,38,100,PH
+C046,"Soybean seed, black, dried, boiled",Per 100 g,241,15.3,6.1,31.2,8.8,2,100,PH
+C047,"Soybean seed, yellow, dried",Per 100 g,456,35.8,19.5,34.2,9.6,33,100,PH
+C048,"Soybean seed, yellow, dried, boiled",Per 100 g,267,12.4,6.9,38.9,9.6,2,100,PH
+C049,"String/Yard long bean seed, dried",Per 100 g,371,30.7,2.3,56.8,11.4,18,100,PH
+C050,"Velvet bean seed, dried",Per 100 g,378,28.2,4.7,55.8,-,-,100,PH
+C051,"Chickpea, cnd",Per 100 g,132,7.4,2.4,20.1,6.0,229,100,PH
+C052,"Coconut chip, toasted, sweetn",Per 100 g,580,4.2,37.5,56.5,5.1,298,100,PH
+C053,"Coconut, cream curd",Per 100 g,620,13.2,52.0,24.8,4.5,39,100,PH
+C054,"Green pea, dried, fried & seasoned",Per 100 g,468,19.0,20.3,52.4,24.7,577,100,PH
+C055,"Green pea, in brine, cnd",Per 100 g,118,6.9,1.1,20.1,8.1,449,100,PH
+C056,"Green pea-corn-peanut mixture, fried",Per 100 g,511,19.8,26.5,48.4,-,-,100,PH
+C057,"Lima bean, fried & seasoned",Per 100 g,500,24.4,26.0,42.2,-,-,100,PH
+C058,Peanut butter,Per 100 g,616,25.4,45.4,26.4,5.8,426,100,PH
+C059,"Peanut butter, choc flvr",Per 100 g,631,17.2,48.2,32.0,5.8,425,100,PH
+C060,Peanut cracker,Per 100 g,541,23.0,31.2,42.1,3.3,530,100,PH
+C061,"Soybean cheese, salted",Per 100 g,117,11.4,6.2,4.0,0.0,3410,100,PH
+C062,"Soybean seed, black, fermented",Per 100 g,143,12.0,7.2,7.6,0.0,3842,100,PH
+C063,"Soybean cheese, soft curd",Per 100 g,89,8.1,5.4,2.0,0.4,48,100,PH
+C064,"Soybean cheese, hard curd",Per 100 g,123,12.9,7.0,2.0,0.5,114,100,PH
+C065,Soybean pudding/ Geerlig's cheese,Per 100 g,34,2.9,1.4,2.4,0.2,22,100,PH
+C066,Soybean pudding/Geerlig's cheese w/ syrup & tapioca starch ball,Per 100 g,62,2.2,0.1,13.1,0.1,23,100,PH
+C067,"Soybean paste, miso",Per 100 g,144,13.0,3.5,15.2,3.2,1673,100,PH
+C068,"Soybean seed, yellow, cnd, drnd",Per 100 g,138,11.8,5.9,9.4,4.3,479,100,PH
+C069,"Watermelon seed, dried, salted",Per 100 g,562,40.2,43.2,3.1,6.0,94,100,PH
+D001,American black nightshade lvs,Per 100 g,56,4.9,0.6,7.9,4.3,29,100,PH
+D002,Apat-apat fern lvs,Per 100 g,131,7.6,0.4,24.2,-,-,100,PH
+D003,Aragan lvs,Per 100 g,29,1.2,0.3,5.4,-,-,100,PH
+D004,Asystasia lvs & stems,Per 100 g,61,3.6,0.9,9.6,4.7,31,100,PH
+D005,Aurora lvs & stems,Per 100 g,108,2.8,1.9,19.9,10.5,19,100,PH
+D006,Bago lvs,Per 100 g,91,6.6,1.5,12.8,7.7,1,100,PH
+D007,"Bago lvs, boiled",Per 100 g,42,3.0,0.4,6.5,3.8,1,100,PH
+D008,"Bago bagin fruit, boiled",Per 100 g,159,5.8,0.4,33.1,-,-,100,PH
+D010,Bamboo shoot,Per 100 g,28,1.9,0.4,4.1,2.1,4,100,PH
+D011,"Bamboo shoot, boiled",Per 100 g,26,1.2,0.3,4.5,1.6,6,100,PH
+D012,Banana stem,Per 100 g,16,0.8,0.1,3.0,1.9,32,100,PH
+D013,"Banana heart, butuan",Per 100 g,39,1.6,0.4,7.2,3.7,3,100,PH
+D014,"Banana heart, butuan, boiled",Per 100 g,18,0.9,0.2,3.2,2.7,2,100,PH
+D015,Bayuno fruit,Per 100 g,74,3.0,0.7,13.9,5.6,15,100,PH
+D016,Beet,Per 100 g,41,1.7,0.2,8.0,2.5,36,100,PH
+D017,"Beet, boiled",Per 100 g,45,1.9,0.1,9.1,2.0,77,100,PH
+D018,Bitter melon/gourd fruit,Per 100 g,23,1.0,0.2,4.2,1.3,15,100,PH
+D019,"Bitter melon/gourd fruit, boiled",Per 100 g,19,0.4,0.2,3.8,1.6,1,100,PH
+D020,Bitter melon/gourd lvs,Per 100 g,34,4.2,0.6,3.0,3.5,9,100,PH
+D021,"Bitter melon/gourd lvs, boiled",Per 100 g,50,2.2,0.6,9.0,2.1,14,100,PH
+D023,Blue pea pod,Per 100 g,68,3.8,0.4,12.2,4.8,11,100,PH
+D024,Borreria lvs & stems,Per 100 g,68,1.7,0.2,14.8,-,-,100,PH
+D025,Bottle gourd fruit,Per 100 g,20,0.4,0.1,4.3,0.7,5,100,PH
+D026,"Bottle gourd fruit, boiled",Per 100 g,16,0.2,0.0,3.8,1.1,2,100,PH
+D027,Bottle gourd lvs,Per 100 g,43,3.3,0.6,6.2,-,12,100,PH
+D028,"Bottle gourd lvs, boiled",Per 100 g,22,1.7,0.3,3.2,-,6,100,PH
+D029,Breadfruit fruit,Per 100 g,65,2.4,0.5,12.8,2.7,1,100,PH
+D030,Breadnut fruit,Per 100 g,55,2.5,1.1,8.7,2.2,3,100,PH
+D031,Breadnut seed,Per 100 g,72,3.4,1.2,11.9,-,1,100,PH
+D032,Bulak-bulakan pod,Per 100 g,68,1.6,0.9,13.4,-,-,100,PH
+D033,Busi-busi lvs,Per 100 g,54,3.1,2.0,6.0,-,-,100,PH
+D035,"Cabbage, green",Per 100 g,31,1.6,0.1,5.9,2.5,12,100,PH
+D036,"Cabbage, green, boiled",Per 100 g,23,0.6,0.1,5.0,1.5,6,100,PH
+D037,"Cabbage, red",Per 100 g,32,1.6,0.2,6.0,1.8,24,100,PH
+D038,"Cabbage, red, boiled",Per 100 g,28,0.9,0.2,5.6,2.0,22,100,PH
+D039,Carrot,Per 100 g,42,1.1,0.3,8.6,2.6,26,100,PH
+D040,"Carrot, boiled",Per 100 g,42,1.1,0.4,8.6,3.3,64,100,PH
+D041,"Cashew, young lvs",Per 100 g,113,4.9,0.6,22.0,-,-,100,PH
+D042,"Cashew, young lvs, boiled",Per 100 g,57,2.4,0.4,10.9,-,-,100,PH
+D043,Cassava lvs,Per 100 g,83,7.1,1.4,10.5,8.0,7,100,PH
+D044,"Cassava lvs, boiled",Per 100 g,43,3.4,0.7,5.7,4.1,4,100,PH
+D045,Cauliflower,Per 100 g,32,2.1,0.3,5.2,2.1,14,100,PH
+D046,"Cauliflower, boiled",Per 100 g,27,1.5,0.2,4.8,2.3,12,100,PH
+D047,Celery lvs & petioles,Per 100 g,25,1.2,0.0,5.1,2.6,14,100,PH
+D048,"Celery, Chinese, lvs & petioles",Per 100 g,37,2.4,0.6,5.4,3.5,151,100,PH
+D049,"Celery, Chinese, lvs & petioles, boiled",Per 100 g,27,1.4,0.1,5.0,2.0,108,100,PH
+D050,Chayote fruit,Per 100 g,23,0.5,0.1,5.1,0.6,8,100,PH
+D051,"Chayote fruit, boiled",Per 100 g,16,0.3,0.1,3.5,0.4,5,100,PH
+D052,Chayote lvs,Per 100 g,44,4.6,0.3,5.7,-,1,100,PH
+D053,"Chayote lvs, boiled",Per 100 g,21,2.5,0.2,2.3,-,1,100,PH
+D054,Chinese cabbage,Per 100 g,21,1.7,0.3,2.9,1.2,9,100,PH
+D055,"Chinese cabbage, boiled",Per 100 g,15,1.0,0.1,2.4,1.4,7,100,PH
+D056,Coconut cotyledon,Per 100 g,67,1.7,1.8,11.1,0.8,23,100,PH
+D057,"Coconut, heart of palm",Per 100 g,47,4.3,0.8,5.7,0.6,4,100,PH
+D059,Fragrant manjack lvs,Per 100 g,61,4.6,0.3,9.9,-,-,100,PH
+D060,Coriander lvs,Per 100 g,37,3.0,0.6,4.8,3.5,29,100,PH
+D061,Cowpea lvs,Per 100 g,49,4.9,1.4,4.3,-,8,100,PH
+D062,"Cowpea lvs, boiled",Per 100 g,30,1.9,0.4,4.6,-,5,100,PH
+D063,Cowpea pod,Per 100 g,51,3.4,0.4,8.5,3.1,1,100,PH
+D064,"Cowpea pod, boiled",Per 100 g,52,2.8,0.4,9.4,3.1,1,100,PH
+D065,"Cowpea seed, fresh",Per 100 g,86,5.1,0.1,16.1,4.9,4,100,PH
+D066,Crown daisy lvs,Per 100 g,23,2.3,0.4,2.6,2.3,89,100,PH
+D067,"Kutcharitas lvs, green",Per 100 g,54,2.6,0.8,9.2,-,-,100,PH
+D068,"Kutcharitas lvs, red",Per 100 g,84,2.3,0.6,17.4,-,-,100,PH
+D069,Cucumber,Per 100 g,16,0.5,0.1,3.2,0.7,13,100,PH
+D070,East Indian lotus fruit,Per 100 g,80,4.1,1.1,13.5,-,-,100,PH
+D071,East Indian lotus lvs,Per 100 g,46,4.7,0.8,5.0,-,-,100,PH
+D072,"East Indian lotus lvs, boiled",Per 100 g,28,2.9,0.4,3.1,-,-,100,PH
+D073,Eggplant,Per 100 g,29,1.2,0.2,5.5,1.6,3,100,PH
+D074,"Eggplant, boiled",Per 100 g,25,1.0,0.1,4.9,1.5,1,100,PH
+D075,Endive lvs,Per 100 g,29,1.6,0.2,5.3,4.1,29,100,PH
+D077,"Flowering fern, lvs",Per 100 g,68,3.0,0.6,12.6,-,-,100,PH
+D078,Foetid cassia lvs,Per 100 g,88,4.4,1.0,15.3,-,-,100,PH
+D079,Fragrant premna lvs,Per 100 g,100,5.4,1.1,17.0,-,5,100,PH
+D080,"Fragrant premna lvs, boiled",Per 100 g,53,1.1,0.3,11.4,-,3,100,PH
+D081,"Galo fruit, whole",Per 100 g,165,3.9,1.8,33.4,-,-,100,PH
+D082,"Galo pulp, boiled",Per 100 g,80,3.0,0.4,16.2,-,-,100,PH
+D083,"Galo seed, boiled",Per 100 g,215,5.1,3.7,40.3,-,-,100,PH
+D084,Garlic bulb,Per 100 g,129,7.0,0.3,24.6,1.7,10,100,PH
+D085,Garlic lvs,Per 100 g,50,2.0,0.6,9.2,3.0,4,100,PH
+D086,"Garlic lvs, boiled",Per 100 g,45,1.1,0.6,8.8,2.6,3,100,PH
+D087,Garlic lvs & bulb,Per 100 g,79,2.6,0.6,15.8,5.0,31,100,PH
+D088,Glynus lvs,Per 100 g,39,3.7,0.8,4.2,3.3,164,100,PH
+D089,Guava lvs,Per 100 g,131,4.5,2.4,22.9,11.2,11,100,PH
+D090,Himbaba-o flower,Per 100 g,68,6.3,1.1,8.1,6.6,17,100,PH
+D091,"Himbaba-o flower, boiled",Per 100 g,52,2.9,0.9,8.1,5.1,13,100,PH
+D092,Himbaba-o lvs,Per 100 g,86,5.8,1.4,12.6,-,22,100,PH
+D093,"Himbaba-o lvs, boiled",Per 100 g,49,1.6,0.5,9.6,-,12,100,PH
+D094,Horseradish tree lvs,Per 100 g,108,9.7,2.0,12.7,6.7,17,100,PH
+D095,"Horseradish tree lvs, boiled",Per 100 g,63,3.1,0.9,10.6,1.7,8,100,PH
+D096,"Horseradish tree lvs, dwarf",Per 100 g,89,9.0,3.1,6.2,5.0,13,100,PH
+D097,"Horseradish tree lvs, dwarf, boiled",Per 100 g,48,3.0,1.0,6.8,1.2,5,100,PH
+D098,"Horseradish tree lvs, Japanese",Per 100 g,60,6.2,1.6,5.2,3.6,9,100,PH
+D099,"Horseradish tree lvs, Japanese, boiled",Per 100 g,42,2.4,1.1,5.5,1.1,5,100,PH
+D100,Horseradish tree pod,Per 100 g,93,2.5,0.4,19.9,6.5,85,100,PH
+D101,"Horseradish tree pod, boiled",Per 100 g,25,1.1,0.2,4.6,1.7,23,100,PH
+D102,Hyacinth bean pod,Per 100 g,45,2.5,0.4,7.8,4.2,6,100,PH
+D103,"Hyacinth bean pod, boiled",Per 100 g,34,1.3,0.1,6.9,3.2,5,100,PH
+D104,"Jackfruit fruit, unripe",Per 100 g,58,2.0,0.6,11.1,2.4,3,100,PH
+D105,Jackfruit seed,Per 100 g,164,5.5,0.5,34.4,5.0,24,100,PH
+D106,"Jackfruit seed, boiled",Per 100 g,156,4.5,0.3,33.7,4.7,22,100,PH
+D107,Jute lvs,Per 100 g,71,6.1,1.1,9.1,7.0,5,100,PH
+D108,"Jute lvs, boiled",Per 100 g,44,2.9,0.6,6.8,1.7,9,100,PH
+D111,Lagikway lvs,Per 100 g,54,4.0,1.2,6.8,-,18,100,PH
+D112,"Lagikway lvs, boiled",Per 100 g,30,1.3,0.4,5.3,-,10,100,PH
+D113,Chinese leek lvs,Per 100 g,34,2.4,0.7,4.6,0.9,6,100,PH
+D114,"Chinese leek lvs, boiled",Per 100 g,19,1.3,0.4,2.6,0.5,5,100,PH
+D115,Lettuce lvs & petioles,Per 100 g,22,1.3,0.4,3.4,1.8,17,100,PH
+D116,"Lettuce tree, young lvs",Per 100 g,43,3.6,1.0,5.0,-,-,100,PH
+D117,"Lettuce tree, young lvs, boiled",Per 100 g,26,0.7,1.2,3.1,-,-,100,PH
+D118,Lima bean pod,Per 100 g,126,8.3,0.7,21.7,5.3,2,100,PH
+D119,"Lima bean pod, boiled",Per 100 g,100,7.0,0.3,17.2,4.1,13,100,PH
+D120,"Limang sugat, young lvs",Per 100 g,56,3.4,0.2,10.1,-,-,100,PH
+D121,Malabar nightshade lvs,Per 100 g,33,2.4,0.4,5.0,2.5,27,100,PH
+D122,"Malabar nightshade lvs, boiled",Per 100 g,21,0.6,0.2,4.3,1.6,17,100,PH
+D123,Malibaddu,Per 100 g,50,1.2,0.2,10.8,-,11,100,PH
+D124,"Mango, young lvs",Per 100 g,90,3.0,0.7,17.8,8.1,3,100,PH
+D125,"Mango, young lvs, boiled",Per 100 g,50,1.6,0.4,9.9,4.4,2,100,PH
+D126,Marrow-stem kale lvs and stems,Per 100 g,34,3.1,0.5,4.3,2.1,23,100,PH
+D127,Mexican lilac flower,Per 100 g,58,2.8,0.7,10.1,3.9,45,100,PH
+D128,"Mexican lilac flowers, boiled",Per 100 g,31,1.4,0.2,5.8,2.1,24,100,PH
+D129,Morning glory lvs,Per 100 g,57,4.0,0.4,9.3,6.0,11,100,PH
+D130,"Mung bean seed, fresh",Per 100 g,119,7.7,0.2,21.6,6.4,8,100,PH
+D131,Mung bean sprout,Per 100 g,64,5.7,0.1,10.0,3.1,7,100,PH
+D132,"Mung bean sprout, boiled",Per 100 g,54,4.8,0.7,7.0,1.6,20,100,PH
+D133,"Mushroom, fresh",Per 100 g,48,3.8,0.6,6.9,1.6,8,100,PH
+D134,Mustard lvs,Per 100 g,24,2.3,0.4,2.7,2.1,9,100,PH
+D135,"Mustard lvs, boiled",Per 100 g,21,1.3,0.6,2.7,1.3,6,100,PH
+D137,New Zealand spinach lvs,Per 100 g,33,3.3,0.5,3.7,2.3,88,100,PH
+D138,"New Zealand spinach lvs, boiled",Per 100 g,28,1.4,0.3,4.9,1.9,146,100,PH
+D139,Okra,Per 100 g,34,1.8,0.3,5.9,3.6,11,100,PH
+D140,"Okra, boiled",Per 100 g,30,1.0,0.2,6.1,2.6,6,100,PH
+D141,"Onion, Bombay bulb",Per 100 g,52,1.7,0.3,10.5,2.0,11,100,PH
+D142,"Onion, Bombay bulb, boiled",Per 100 g,47,1.2,0.4,9.7,1.3,3,100,PH
+D143,"Onion, garden shallot bulb",Per 100 g,68,1.7,0.5,14.1,2.7,12,100,PH
+D144,"Onion, garden shallot bulb, boiled",Per 100 g,62,1.1,0.5,13.3,2.4,11,100,PH
+D145,"Onion, garden shallot lvs",Per 100 g,37,1.7,1.0,5.4,2.1,3,100,PH
+D146,"Onion, garden shallot lvs, boiled",Per 100 g,27,1.3,0.6,4.1,1.5,2,100,PH
+D147,"Onion, spring",Per 100 g,41,1.8,0.5,7.2,2.6,30,100,PH
+D148,"Onion, spring, boiled",Per 100 g,36,1.3,0.4,6.9,2.4,28,100,PH
+D149,Pako fern lvs,Per 100 g,31,3.2,0.4,3.7,3.4,6,100,PH
+D150,"Pako fern lvs, boiled",Per 100 g,33,1.9,0.4,5.5,3.4,6,100,PH
+D151,"Palm-like fig, young lvs",Per 100 g,50,3.9,0.7,6.9,-,-,100,PH
+D152,"Palm-like fig, young lvs, boiled",Per 100 g,19,1.2,0.2,3.2,-,-,100,PH
+D153,Pansit-pansitan,Per 100 g,15,0.9,0.2,2.5,0.7,89,100,PH
+D154,"Papaya fruit, unripe",Per 100 g,27,1.0,0.1,5.5,0.7,4,100,PH
+D155,"Papaya, young lvs",Per 100 g,106,6.1,1.6,16.7,-,2,100,PH
+D156,"Papaya, young lvs, boiled",Per 100 g,67,4.6,1.2,9.5,-,2,100,PH
+D157,Papaya petioles,Per 100 g,27,0.6,0.2,5.8,0.8,1,100,PH
+D158,"Papaya petioles, boiled",Per 100 g,24,0.7,0.2,4.9,0.7,1,100,PH
+D159,Parsley lvs,Per 100 g,58,4.0,0.9,8.4,4.2,72,100,PH
+D160,Pechay lvs,Per 100 g,22,2.1,0.4,2.6,1.2,13,100,PH
+D161,"Pechay lvs, boiled",Per 100 g,21,1.7,0.5,2.4,1.1,12,100,PH
+D162,Pechay petioles,Per 100 g,14,0.6,0.3,2.1,0.8,8,100,PH
+D163,"Pechay petioles, boiled",Per 100 g,11,0.4,0.2,1.9,0.6,7,100,PH
+D164,"Pepper, chili fruit",Per 100 g,75,4.8,2.2,9.0,3.5,14,100,PH
+D165,"Pepper, chili lvs",Per 100 g,60,5.8,1.2,6.4,-,5,100,PH
+D166,"Pepper, chili lvs, boiled",Per 100 g,52,1.8,0.3,10.5,-,4,100,PH
+D167,"Pepper, sweet/bell long, green",Per 100 g,44,1.8,0.5,8.1,3.1,12,100,PH
+D168,"Pepper, sweet/bell, long, green, boiled",Per 100 g,32,0.9,0.3,6.4,1.2,2,100,PH
+D169,"Pepper, sweet/bell, long, red",Per 100 g,75,2.4,0.9,14.4,5.0,8,100,PH
+D170,"Pepper, sweet/bell, round, green",Per 100 g,28,0.9,0.2,5.6,2.0,8,100,PH
+D171,"Pepper, sweet/bell, round, green, boiled",Per 100 g,17,0.5,0.2,3.2,0.6,1,100,PH
+D172,"Pepper, sweet/bell, round, red",Per 100 g,36,0.5,0.3,7.8,2.5,4,100,PH
+D173,Philippine spinach lvs,Per 100 g,29,2.7,0.5,3.5,2.4,16,100,PH
+D174,"Philippine spinach lvs, boiled",Per 100 g,23,0.8,0.2,4.6,1.8,12,100,PH
+D175,Pigeon pea pod,Per 100 g,149,8.2,0.7,27.4,9.0,5,100,PH
+D176,"Pigeon pea pod, boiled",Per 100 g,84,5.6,0.3,14.7,5.5,8,100,PH
+D177,"Pigeon pea seed, fresh",Per 100 g,143,8.2,0.7,26.0,6.3,7,100,PH
+D178,Malabar bauhinia lvs,Per 100 g,60,2.5,1.6,8.9,-,2,100,PH
+D179,"Prickly chaff-flower, lvs",Per 100 g,59,6.4,1.0,6.2,4.1,47,100,PH
+D180,Purslane lvs,Per 100 g,31,2.3,0.4,4.5,3.2,262,100,PH
+D181,"Purslane lvs, boiled",Per 100 g,26,1.3,0.3,4.6,2.5,205,100,PH
+D182,Racaba lvs,Per 100 g,58,3.3,1.0,8.9,-,-,100,PH
+D183,Radish,Per 100 g,20,0.6,0.1,4.1,0.6,21,100,PH
+D184,"Radish, boiled",Per 100 g,15,0.2,0.1,3.2,0.4,15,100,PH
+D185,"Radish, pod",Per 100 g,33,1.7,0.1,6.2,2.1,8,100,PH
+D186,"Rhubarb, young petioles",Per 100 g,27,0.6,0.5,5.1,-,-,100,PH
+D187,Roselle lvs,Per 100 g,63,2.8,0.6,11.6,5.3,43,100,PH
+D188,"Sabitan, lvs",Per 100 g,70,6.2,0.7,9.6,-,-,100,PH
+D189,"Seaweed, gut weed, dried",Per 100 g,108,1.4,0.4,24.8,-,-,100,PH
+D190,Sea purslane lvs,Per 100 g,25,1.8,0.4,3.6,2.7,225,100,PH
+D191,"Sea purslane lvs, boiled",Per 100 g,36,1.0,0.2,7.5,3.7,308,100,PH
+D192,"Seaweed, balbalulang",Per 100 g,23,0.4,0.3,4.6,-,-,100,PH
+D193,"Seaweed, gamet, dried",Per 100 g,252,23.7,1.2,36.7,1.4,222,100,PH
+D194,"Seaweed, kawkawayan",Per 100 g,67,2.2,1.5,11.2,-,-,100,PH
+D195,"Seaweed, kulot",Per 100 g,24,0.6,0.4,4.6,-,-,100,PH
+D196,"Seaweed, lato",Per 100 g,10,0.1,0.1,2.1,-,-,100,PH
+D198,"Seaweed, pokpoklo",Per 100 g,14,1.2,0.2,1.8,-,-,100,PH
+D199,Sesbania flower,Per 100 g,31,1.0,0.3,6.1,2.1,24,100,PH
+D200,"Sesbania flower, boiled",Per 100 g,28,1.0,0.3,5.4,1.9,22,100,PH
+D201,Sesbania lvs,Per 100 g,76,6.6,1.4,9.2,-,58,100,PH
+D202,"Sesbania lvs, boiled",Per 100 g,51,6.0,0.8,4.9,-,40,100,PH
+D203,Slender/Spineless amaranth lvs,Per 100 g,59,4.5,1.1,7.8,5.1,12,100,PH
+D204,"Slender/Spineless amaranth lvs, boiled",Per 100 g,34,3.3,0.4,4.4,3.2,8,100,PH
+D205,Snake gourd fruit,Per 100 g,18,0.6,0.0,4.0,0.3,7,100,PH
+D206,"Snap bean pod, green",Per 100 g,36,2.0,0.1,6.8,2.6,2,100,PH
+D207,"Snap bean pod, green, boiled",Per 100 g,27,0.8,0.1,5.6,2.0,1,100,PH
+D208,"Snap bean pod, white",Per 100 g,31,1.9,0.2,5.3,2.2,2,100,PH
+D209,"Snap bean pod, white, boiled",Per 100 g,14,1.0,0.1,2.3,1.1,0,100,PH
+D210,"Snap bean seed, black & brown, fresh",Per 100 g,185,11.3,0.6,33.5,-,17,100,PH
+D211,Snow/Sugar pea pod,Per 100 g,67,3.0,0.4,12.8,4.1,2,100,PH
+D212,"Snow/Sugar pea pod, boiled",Per 100 g,40,1.5,0.4,7.6,2.5,4,100,PH
+D213,"Soybean seed, fresh",Per 100 g,151,13.1,6.1,10.9,4.1,15,100,PH
+D214,"Soybean seed, fresh, boiled",Per 100 g,144,12.4,6.4,9.3,4.0,13,100,PH
+D215,"Spanish plum, young lvs",Per 100 g,66,4.5,1.2,9.3,-,4,100,PH
+D216,"Spanish plum, young lvs, boiled",Per 100 g,39,1.9,0.6,6.4,-,2,100,PH
+D217,Spiny pigweed/Thorny amaranth lvs,Per 100 g,63,5.5,0.9,8.2,5.7,13,100,PH
+D218,"Spiny pigweed/Thorny amaranth lvs, boiled",Per 100 g,37,1.6,0.3,6.9,3.2,7,100,PH
+D219,Sponge gourd fruit,Per 100 g,21,0.7,0.1,4.3,0.4,8,100,PH
+D220,"Sponge gourd fruit, boiled",Per 100 g,16,0.4,0.4,2.7,0.3,6,100,PH
+D221,Sponge gourd lvs,Per 100 g,37,4.0,0.6,3.9,-,16,100,PH
+D222,"Sponge gourd lvs, boiled",Per 100 g,14,1.4,0.1,1.8,-,6,100,PH
+D223,Squash flower,Per 100 g,33,1.9,0.5,5.2,-,5,100,PH
+D224,"Squash flower, boiled",Per 100 g,19,0.4,0.1,4.1,-,3,100,PH
+D225,Squash fruit,Per 100 g,68,1.2,0.2,15.3,1.6,8,100,PH
+D226,"Squash fruit, boiled",Per 100 g,47,0.4,0.2,10.8,1.1,5,100,PH
+D227,Squash lvs,Per 100 g,38,3.4,0.6,4.8,-,6,100,PH
+D228,"Squash lvs, boiled",Per 100 g,27,1.6,0.4,4.2,-,4,100,PH
+D229,"Squash, summer fruit",Per 100 g,21,0.6,0.2,4.3,0.8,5,100,PH
+D230,String/Yard long bean lvs,Per 100 g,44,4.2,0.4,6.0,2.3,39,100,PH
+D231,"String/Yard long bean lvs, boiled",Per 100 g,27,2.1,0.2,4.3,1.4,23,100,PH
+D232,"String/Yard long bean pod, green",Per 100 g,38,2.7,0.3,6.2,3.7,5,100,PH
+D233,"String/Yard long bean pod, green, boiled",Per 100 g,52,4.0,0.5,7.9,2.7,4,100,PH
+D234,"String/Yard long bean pod, red",Per 100 g,44,2.8,0.2,7.8,4.3,6,100,PH
+D235,"String/Yard long bean pod, red, boiled",Per 100 g,35,1.5,0.2,6.7,1.9,3,100,PH
+D236,"String/Yard long bean pod, white",Per 100 g,47,2.2,0.3,8.8,4.5,6,100,PH
+D237,"String/Yard long bean pod, white, boiled",Per 100 g,23,1.4,0.1,4.1,1.2,2,100,PH
+D238,"String/Yard long bean seed, green, fresh",Per 100 g,119,9.2,0.8,18.8,3.6,6,100,PH
+D239,"String/Yard long bean seed, green, fresh, boiled",Per 100 g,119,12.7,0.4,16.1,3.7,5,100,PH
+D240,"Sugar palm, heart of palm",Per 100 g,38,1.3,0.5,7.0,0.5,4,100,PH
+D241,Swamp amaranth lvs,Per 100 g,52,5.1,0.2,7.5,4.9,12,100,PH
+D242,Swamp cabbage lvs,Per 100 g,39,3.3,0.4,5.5,3.8,114,100,PH
+D243,"Swamp cabbage lvs, boiled",Per 100 g,28,1.5,0.4,4.7,2.6,78,100,PH
+D244,Sweet potato lvs,Per 100 g,49,3.9,0.5,7.2,5.0,9,100,PH
+D245,"Sweet potato lvs, boiled",Per 100 g,29,1.1,0.7,4.6,2.7,5,100,PH
+D246,"Sweet potato lvs, purple",Per 100 g,69,4.7,0.6,11.3,7.1,13,100,PH
+D247,"Sweet potato lvs, purple, boiled",Per 100 g,24,1.8,0.3,3.5,2.5,5,100,PH
+D248,Tamarind flower,Per 100 g,86,2.5,1.8,15.0,5.5,6,100,PH
+D249,Tamarind lvs,Per 100 g,80,3.9,1.0,13.9,7.0,5,100,PH
+D250,"Tamarind lvs, boiled",Per 100 g,54,2.4,0.5,9.9,4.7,3,100,PH
+D251,Ivy gourd lvs,Per 100 g,49,4.9,1.5,3.9,3.0,11,100,PH
+D252,"Ivy gourd lvs, boiled",Per 100 g,49,3.5,0.8,7.0,3.4,13,100,PH
+D253,Taro lvs,Per 100 g,73,4.3,1.8,10.0,4.8,11,100,PH
+D254,"Taro lvs, boiled",Per 100 g,48,1.4,0.4,9.7,3.1,7,100,PH
+D255,Taro petioles,Per 100 g,21,0.3,0.2,4.6,1.6,5,100,PH
+D256,"Taro petioles, boiled",Per 100 g,15,0.2,0.1,3.2,1.0,3,100,PH
+D257,Tomato,Per 100 g,25,0.8,0.1,5.2,0.3,11,100,PH
+D258,"Tomato, boiled",Per 100 g,25,0.4,0.1,5.6,0.3,11,100,PH
+D259,"Tomato, Spanish, ripe",Per 100 g,64,2.3,0.4,12.9,0.8,28,100,PH
+D260,Yam bean,Per 100 g,45,1.1,0.2,9.8,5.6,4,100,PH
+D261,"Yam bean, pod",Per 100 g,52,2.6,0.3,9.6,3.2,12,100,PH
+D263,"Water caltrop, boiled",Per 100 g,226,9.4,0.1,46.8,-,-,100,PH
+D264,Water chestnut,Per 100 g,176,2.3,0.7,40.3,5.0,84,100,PH
+D265,"Water chestnut, boiled",Per 100 g,246,2.7,0.1,58.6,-,-,100,PH
+D268,Watercress,Per 100 g,26,1.0,0.3,4.8,0.7,55,100,PH
+D269,Wax gourd fruit,Per 100 g,20,0.4,0.3,3.8,3.6,6,100,PH
+D270,"Wax gourd fruit, boiled",Per 100 g,13,0.1,0.1,3.0,0.9,4,100,PH
+D271,Wild ginger,Per 100 g,32,2.1,0.4,5.0,0.8,5,100,PH
+D272,Winged bean pod,Per 100 g,31,2.0,0.3,5.1,3.1,8,100,PH
+D273,"Winged bean pod, boiled",Per 100 g,35,1.6,0.3,6.4,3.5,9,100,PH
+D274,"Asparagus, cnd",Per 100 g,30,1.6,0.4,5.1,2.2,386,100,PH
+D275,"Bamboo shoot, cnd",Per 100 g,18,1.1,0.4,2.6,1.1,6,100,PH
+D276,"Bamboo shoot, dried",Per 100 g,357,17.1,1.4,69.0,25.9,49,100,PH
+D277,"Black wood ear mushroom, dried",Per 100 g,325,8.4,0.5,71.6,29.5,110,100,PH
+D278,"Cucumber, salted, cnd",Per 100 g,37,2.9,0.2,5.8,3.9,3959,100,PH
+D279,"Mushroom, cnd",Per 100 g,23,2.3,0.4,2.5,1.7,305,100,PH
+D280,"Mushroom, dried",Per 100 g,331,16.0,0.9,64.6,10.8,12,100,PH
+D281,"Mustard lvs, pickled",Per 100 g,16,1.4,0.1,2.3,1.1,667,100,PH
+D282,"Mustard lvs, salted",Per 100 g,28,1.9,1.0,2.9,2.6,1582,100,PH
+D283,"Olive, green, in brine",Per 100 g,132,1.3,12.6,3.4,3.2,1498,100,PH
+D284,"Olive, ripe, in brine",Per 100 g,158,1.0,16.0,2.6,3.5,812,100,PH
+D285,"Papaya fruit, unripe, dried",Per 100 g,335,6.7,0.6,75.7,9.2,122,100,PH
+D286,Pickle relish,Per 100 g,145,0.3,0.9,33.9,1.1,798,100,PH
+D287,"Pickles, mixed",Per 100 g,163,0.2,3.1,33.5,1.6,732,100,PH
+D288,"Pickles, papaya",Per 100 g,203,0.8,8.7,30.3,1.7,791,100,PH
+D289,"Pickles, whole, gherkins",Per 100 g,132,0.4,1.7,28.7,12.3,3565,100,PH
+D290,"Pimiento, cnd",Per 100 g,20,0.6,0.5,3.3,1.4,10,100,PH
+D292,"Radish, salted, cnd",Per 100 g,46,2.7,0.4,7.8,7.9,1230,100,PH
+D293,"Taro lvs, dried",Per 100 g,388,23.1,9.2,53.1,25.0,20,100,PH
+D294,"Bagbagkong flower, raw",Per 100 g,49,4.1,0.6,6.9,3.9,9,100,PH
+D295,"Batwan, immature fruit, raw",Per 100 g,53,0.6,0.1,12.4,4.7,2,100,PH
+D296,"Bitter melon/gourd, wild, fruit, raw",Per 100 g,29,1.2,0.3,5.4,2.4,7,100,PH
+D297,"Malunggay leaves powder, dry",Per 100 g,382,28.8,8.7,47.0,26.1,119,100,PH
+D298,"Mangrove apple, raw",Per 100 g,72,1.6,0.5,15.2,12.1,156,100,PH
+D299,"Ivy gourd, immature fruit, raw",Per 100 g,28,1.2,0.3,5.2,2.1,10,100,PH
+D300,"Basil, sweet, fresh",Per 100 g,46,3.3,0.6,6.9,5.0,13,100,PH
+D301,"Libas, mature lvs",Per 100 g,90,3.8,1.3,15.7,8.7,9,100,PH
+D302,"Libas, young lvs",Per 100 g,84,2.8,0.7,16.5,7.4,7,100,PH
+D303,"Thyme, fresh",Per 100 g,118,5.3,1.9,20.0,14.6,30,100,PH
+D304,Ginger,Per 100 g,46,1.1,0.8,8.5,1.1,3,100,PH
+D305,Turmeric,Per 100 g,71,2.0,2.7,9.6,4.1,61,100,PH
+E001,"Apple, green",Per 100 g,63,0.5,0.1,14.9,3.0,4,100,PH
+E002,"Apple, red",Per 100 g,67,0.7,0.1,15.8,2.6,2,100,PH
+E003,Atemoya,Per 100 g,63,0.5,0.3,14.5,2.3,5,100,PH
+E004,"Avocado, green",Per 100 g,101,0.9,6.2,10.5,4.8,1,100,PH
+E005,"Avocado, red",Per 100 g,100,0.9,7.6,7.0,4.3,2,100,PH
+E006,"Banana, bungulan",Per 100 g,106,1.0,0.4,24.5,2.8,1,100,PH
+E007,"Banana, butuan",Per 100 g,101,1.3,0.3,23.2,2.7,1,100,PH
+E008,"Banana, cavendish, ripe",Per 100 g,104,0.9,0.9,23.1,2.7,13,100,PH
+E009,"Banana, cavendish, unripe",Per 100 g,112,1.1,0.7,25.4,2.9,1,100,PH
+E010,"Banana, gloria",Per 100 g,132,1.1,0.1,31.7,3.5,3,100,PH
+E011,"Banana, lacatan",Per 100 g,126,1.4,0.2,29.6,3.3,2,100,PH
+E012,"Banana, latundan",Per 100 g,105,1.2,0.3,24.4,2.8,3,100,PH
+E013,"Banana, murado",Per 100 g,107,1.2,0.5,24.5,2.8,2,100,PH
+E014,"Banana, saba",Per 100 g,110,1.1,0.4,25.5,2.9,2,100,PH
+E015,"Banana, saba, boiled",Per 100 g,159,1.2,0.0,38.6,4.2,2,100,PH
+E016,"Banana, ternate",Per 100 g,134,0.9,0.4,31.6,3.5,1,100,PH
+E017,"Banana, tuldok",Per 100 g,99,1.1,0.2,23.3,2.6,1,100,PH
+E018,Bignay,Per 100 g,35,0.7,0.8,6.3,3.0,1,100,PH
+E019,Bilimbi,Per 100 g,23,0.7,0.2,4.5,1.9,4,100,PH
+E020,Black/Java plum,Per 100 g,71,0.8,0.4,16.0,-,7,100,PH
+E021,Barbados gooseberry,Per 100 g,36,1.0,0.7,6.3,3.0,1,100,PH
+E022,Buri palm,Per 100 g,75,0.7,0.1,17.8,1.1,3,100,PH
+E023,Calamansi/Philippine lemon,Per 100 g,44,0.4,1.0,8.3,2.4,3,100,PH
+E024,Canistel,Per 100 g,172,2.5,0.6,39.1,10.3,10,100,PH
+E025,Cashew fruit,Per 100 g,63,0.7,0.6,13.8,0.8,3,100,PH
+E026,Java apple,Per 100 g,34,0.4,0.1,7.8,1.3,2,100,PH
+E027,Custard apple,Per 100 g,131,1.4,0.2,31.0,2.9,5,100,PH
+E028,Durian,Per 100 g,163,2.0,1.2,36.1,4.4,28,100,PH
+E029,Velvet apple,Per 100 g,88,0.6,0.3,20.8,4.1,3,100,PH
+E030,Grape,Per 100 g,83,0.4,0.3,19.7,1.0,16,100,PH
+E031,"Guava, red",Per 100 g,102,0.9,0.4,23.8,7.2,5,100,PH
+E032,"Guava, white",Per 100 g,70,0.8,0.3,16.0,5.0,3,100,PH
+E033,Jackfruit,Per 100 g,111,1.4,0.4,25.4,1.6,2,100,PH
+E034,Johey oak,Per 100 g,128,1.0,0.4,30.0,1.8,2,100,PH
+E035,Jamaica cherry,Per 100 g,100,2.0,0.6,21.6,-,-,100,PH
+E036,Jujube Indian/Chinese date,Per 100 g,73,1.0,0.4,16.4,2.9,4,100,PH
+E037,Kaffir lime,Per 100 g,42,0.6,1.3,7.0,2.2,2,100,PH
+E038,Kalumpit,Per 100 g,77,1.3,0.4,17.0,2.4,0,100,PH
+E039,Lanzon,Per 100 g,64,1.0,0.3,14.2,2.7,1,100,PH
+E040,Lemon,Per 100 g,42,0.5,1.6,6.3,2.2,2,100,PH
+E041,Lemon peel,Per 100 g,82,1.1,0.3,18.6,11.9,7,100,PH
+E042,Lime,Per 100 g,50,0.8,2.4,6.3,2.3,2,100,PH
+E043,Lime peel,Per 100 g,121,3.4,0.2,26.5,18.3,10,100,PH
+E044,Lipoti,Per 100 g,77,0.7,2.5,12.9,-,4,100,PH
+E045,Lychee/Litchi,Per 100 g,87,1.5,0.1,20.1,1.6,6,100,PH
+E046,Madras thorn,Per 100 g,93,3.2,0.4,19.1,-,19,100,PH
+E047,Malay apple,Per 100 g,44,0.5,0.2,10.0,1.7,2,100,PH
+E048,Malay gooseberry,Per 100 g,40,0.8,0.7,7.7,3.5,7,100,PH
+E049,"Mango, Indian, unripe",Per 100 g,53,0.3,0.2,12.5,1.3,3,100,PH
+E050,"Mango, Manila super, medium ripe",Per 100 g,66,0.4,0.4,15.2,1.6,14,100,PH
+E051,"Mango, Manila super, ripe",Per 100 g,70,0.6,0.2,16.4,1.7,4,100,PH
+E052,"Mango, Manila super, unripe",Per 100 g,63,0.5,0.2,14.9,1.5,6,100,PH
+E053,"Mango, paho, unripe",Per 100 g,74,0.7,0.6,16.4,1.8,7,100,PH
+E054,"Mango, piko, medium ripe",Per 100 g,83,0.3,0.9,18.4,1.9,17,100,PH
+E055,"Mango, piko, ripe",Per 100 g,80,0.7,0.2,18.9,1.9,2,100,PH
+E056,"Mango, piko, unripe",Per 100 g,69,0.5,0.4,15.8,1.6,6,100,PH
+E057,"Mango, supsupin, ripe",Per 100 g,91,1.2,0.5,20.5,2.2,5,100,PH
+E058,Mangosteen,Per 100 g,84,0.7,0.8,18.6,1.8,12,100,PH
+E059,Many-spiked flacourtia,Per 100 g,118,0.6,0.6,27.6,3.9,1,100,PH
+E060,Marmalade plum,Per 100 g,113,1.2,0.3,26.4,4.4,6,100,PH
+E061,Melon,Per 100 g,23,0.5,0.3,4.8,0.6,11,100,PH
+E062,"Melon, honey dew",Per 100 g,42,0.3,0.3,9.5,0.8,18,100,PH
+E064,"Melon, watermelon",Per 100 g,31,0.1,0.2,7.2,0.4,1,100,PH
+E065,"Orange, Ladu",Per 100 g,35,0.4,0.2,7.8,1.6,3,100,PH
+E066,"Orange, Szinkom",Per 100 g,31,0.3,0.2,6.9,0.9,1,100,PH
+E068,"Papaya fruit, medium ripe",Per 100 g,53,0.7,0.2,12.0,2.0,3,100,PH
+E069,"Papaya fruit, ripe",Per 100 g,53,0.5,0.3,12.1,1.9,3,100,PH
+E070,Pear,Per 100 g,57,0.4,0.6,12.6,2.7,1,100,PH
+E071,"Persimmon, kaki",Per 100 g,86,0.4,0.6,19.7,3.9,1,100,PH
+E072,Philippine dillenia,Per 100 g,33,0.3,0.2,7.4,-,-,100,PH
+E073,Pineapple,Per 100 g,55,0.4,0.2,13.0,1.4,2,100,PH
+E074,Pomegranate,Per 100 g,64,0.7,0.4,14.5,3.0,6,100,PH
+E075,Pomelo,Per 100 g,51,0.7,0.6,10.6,1.1,2,100,PH
+E076,Rambutan,Per 100 g,87,1.2,0.9,18.6,0.9,18,100,PH
+E077,Rattan fruit,Per 100 g,88,0.6,1.2,18.6,-,-,100,PH
+E078,Santol,Per 100 g,67,0.7,1.0,13.8,0.2,3,100,PH
+E079,Sapodilla,Per 100 g,108,0.5,0.9,24.5,6.3,5,100,PH
+E080,Sapote,Per 100 g,93,0.8,0.5,21.2,4.2,1,100,PH
+E081,Stinking passion flower fruit,Per 100 g,62,0.6,0.5,13.7,6.1,16,100,PH
+E082,Stinking passion flower juice,Per 100 g,56,0.8,0.6,11.8,0.2,5,100,PH
+E083,Soursop,Per 100 g,70,1.1,0.1,16.2,3.2,4,100,PH
+E084,Spanish plum,Per 100 g,88,0.9,0.2,20.6,-,2,100,PH
+E085,"Star apple, green",Per 100 g,74,0.7,1.1,15.3,2.7,8,100,PH
+E086,"Star apple, purple",Per 100 g,80,1.3,0.6,17.4,3.0,9,100,PH
+E087,Starfruit,Per 100 g,39,0.5,0.7,7.7,3.0,2,100,PH
+E088,Strawberry,Per 100 g,34,0.8,0.2,7.2,1.9,1,100,PH
+E089,Sugar apple/Sweetsop,Per 100 g,104,1.3,0.4,23.7,4.3,4,100,PH
+E090,Sugar palm,Per 100 g,19,0.1,0.2,4.3,0.8,2,100,PH
+E091,"Sugar palm, boiled",Per 100 g,13,0.1,0.2,2.8,0.5,1,100,PH
+E092,Susong-kalabaw,Per 100 g,39,0.7,0.4,8.1,-,-,100,PH
+E093,"Tamarind, ripe",Per 100 g,258,2.0,0.6,61.1,5.0,4,100,PH
+E094,"Tamarind, unripe",Per 100 g,77,0.9,0.3,17.7,-,3,100,PH
+E095,"Tamarind, unripe, boiled",Per 100 g,30,0.7,0.1,6.6,-,-,100,PH
+E096,"Banana chips, salted",Per 100 g,585,1.8,41.2,51.8,7.8,-,100,PH
+E097,"Banana chips, sweetn",Per 100 g,568,1.5,35.1,61.6,8.0,6,100,PH
+E098,"Banana cracker, sweetn",Per 100 g,509,2.1,27.7,62.8,-,-,100,PH
+E099,Banana fritter,Per 100 g,240,3.0,3.9,48.1,4.2,190,100,PH
+E100,"Banana, saba, mashed, w/ sugar & marg",Per 100 g,204,1.4,3.6,41.4,1.7,140,100,PH
+E101,"Banana, saba, w/ sugar, fried",Per 100 g,183,2.0,2.6,37.8,1.6,6,100,PH
+E102,"Banana, saba, w/ sugar, wrapped, fried",Per 100 g,259,2.4,6.4,48.0,1.6,89,100,PH
+E103,"Bilimbi, pickled",Per 100 g,22,0.5,0.1,4.7,1.4,2609,100,PH
+E104,"Cherry, in syrup, drnd",Per 100 g,106,0.2,0.5,25.1,1.7,4,100,PH
+E105,"Date, dried",Per 100 g,346,1.7,2.8,78.6,8.5,2,100,PH
+E106,Dikyam,Per 100 g,246,1.9,1.6,56.1,-,-,100,PH
+E107,"Fruit cocktail, tropical, in syrup, cnd",Per 100 g,103,0.2,0.2,25.0,1.3,11,100,PH
+E108,"Jujube Indian/Chinese date, dried",Per 100 g,333,1.1,0.5,80.9,6.2,9,100,PH
+E109,"Mango chips, dried",Per 100 g,365,1.6,1.0,87.3,5.4,156,100,PH
+E110,"Peach, in heavy syrup, cnd",Per 100 g,73,0.4,0.9,15.8,1.1,5,100,PH
+E113,"Pineapple, crushed, cnd",Per 100 g,87,0.5,0.2,20.9,1.0,1,100,PH
+E114,"Pineapple, slice, cnd",Per 100 g,119,0.4,0.8,27.5,1.1,1,100,PH
+E115,Prune,Per 100 g,278,2.5,0.7,65.5,7.3,9,100,PH
+E116,Raisin,Per 100 g,340,3.5,1.1,78.9,4.0,17,100,PH
+E117,Dragon fruit,Per 100 g,66,1.0,1.0,13.2,2.0,18,100,PH
+E118,"Kandis, flesh",Per 100 g,65,0.3,0.5,14.9,4.6,5,100,PH
+E119,"Kandis, pulp",Per 100 g,60,0.3,0.2,14.3,1.6,15,100,PH
+E120,"Libas fruit, ripe",Per 100 g,51,0.8,0.1,11.7,2.6,26,100,PH
+E121,"Libas fruit, unripe",Per 100 g,40,0.8,0.1,8.9,3.0,8,100,PH
+E122,Maraitum,Per 100 g,92,0.5,0.2,22.0,0.0,24,100,PH
+E123,Palau-biyok,Per 100 g,115,0.6,0.3,27.5,0.3,11,100,PH
+E124,Sapinit,Per 100 g,76,1.2,1.1,15.2,8.0,9,100,PH
+E125,Tabo,Per 100 g,110,0.4,0.2,26.7,4.4,16,100,PH
+F001,Beef blood,Per 100 g,90,20.6,0.6,0.5,-,111,100,PH
+F002,"Beef blood, bbq",Per 100 g,93,19.7,1.1,1.1,-,-,100,PH
+F003,Beef brain,Per 100 g,127,10.3,9.4,0.3,0.0,141,100,PH
+F004,"Beef brain, boiled",Per 100 g,155,12.2,11.3,1.2,0.0,112,100,PH
+F005,Beef brisket,Per 100 g,211,18.2,15.4,0.0,0.0,58,100,PH
+F006,Beef chuck,Per 100 g,171,19.0,10.5,0.0,0.0,43,100,PH
+F007,"Beef chuck, lean, boiled",Per 100 g,109,11.4,2.4,10.4,0.0,42,100,PH
+F008,Beef club steak,Per 100 g,104,23.1,1.3,0.0,0.0,36,100,PH
+F009,Beef flank,Per 100 g,231,19.4,17.0,0.0,0.0,49,100,PH
+F010,Beef head,Per 100 g,139,25.0,4.2,0.4,-,-,100,PH
+F011,Beef heart,Per 100 g,139,18.8,6.2,1.9,0.0,81,100,PH
+F012,"Beef intestine, large",Per 100 g,103,5.0,8.1,2.6,0.0,84,100,PH
+F013,"Beef intestine, small",Per 100 g,109,16.4,4.2,1.4,0.0,123,100,PH
+F014,Beef kidney,Per 100 g,89,16.2,2.2,1.1,0.0,182,100,PH
+F015,Beef lean meat,Per 100 g,134,23.1,4.6,0.0,0.0,59,100,PH
+F016,"Beef lean meat, boiled",Per 100 g,146,25.3,5.0,0.0,0.0,33,100,PH
+F017,"Beef lean meat, broiled",Per 100 g,149,30.4,3.0,0.0,0.0,67,100,PH
+F018,"Beef lean meat, fried",Per 100 g,183,30.2,6.9,0.0,0.0,55,100,PH
+F019,Beef liver,Per 100 g,144,20.6,3.2,8.3,0.0,74,100,PH
+F020,"Beef liver, boiled",Per 100 g,154,25.5,4.0,4.0,0.0,67,100,PH
+F021,Beef lung,Per 100 g,98,17.2,1.8,3.2,0.0,190,100,PH
+F022,Beef mammary,Per 100 g,550,6.6,55.4,6.2,-,63,100,PH
+F023,Beef omasum,Per 100 g,95,15.1,3.8,0.0,0.0,35,100,PH
+F024,"Beef omasum, boiled",Per 100 g,93,14.8,3.7,0.0,0.0,70,100,PH
+F025,Beef plate,Per 100 g,203,18.2,14.5,0.0,0.0,66,100,PH
+F026,Beef porterhouse steak,Per 100 g,105,23.4,1.3,0.0,0.0,40,100,PH
+F027,Beef reticulum,Per 100 g,170,13.9,12.1,1.4,0.0,86,100,PH
+F028,"Beef reticulum, boiled",Per 100 g,167,11.5,13.4,0.0,0.0,94,100,PH
+F029,Beef rib roast,Per 100 g,314,15.1,28.2,0.0,0.0,39,100,PH
+F030,Beef round,Per 100 g,139,20.7,6.2,0.0,0.0,48,100,PH
+F031,"Beef round, boiled",Per 100 g,106,19.2,3.2,0.0,0.0,25,100,PH
+F032,"Beef round, broiled",Per 100 g,132,21.4,5.1,0.0,0.0,28,100,PH
+F033,"Beef round, fried",Per 100 g,140,21.1,6.2,0.0,0.0,41,100,PH
+F034,Beef rump,Per 100 g,104,20.7,2.4,0.0,0.0,42,100,PH
+F035,Beef shank,Per 100 g,115,21.5,3.2,0.0,0.0,57,100,PH
+F036,"Beef shank, boiled",Per 100 g,92,19.5,1.5,0.0,0.0,34,100,PH
+F037,Beef short rib,Per 100 g,248,20.2,18.6,0.0,0.0,70,100,PH
+F038,Beef sirloin,Per 100 g,132,20.5,5.6,0.0,0.0,56,100,PH
+F039,"Beef sirloin, boiled",Per 100 g,106,18.3,3.6,0.0,0.0,39,100,PH
+F040,"Beef sirloin, broiled",Per 100 g,138,22.2,5.5,0.0,0.0,41,100,PH
+F041,"Beef sirloin, fried",Per 100 g,152,23.5,6.4,0.0,0.0,44,100,PH
+F042,Beef spleen,Per 100 g,95,18.2,2.0,1.0,0.0,154,100,PH
+F043,"Beef spleen, boiled",Per 100 g,85,16.4,2.2,0.0,0.0,38,100,PH
+F044,Beef stomach,Per 100 g,119,17.6,5.3,0.2,0.0,57,100,PH
+F045,Beef tail,Per 100 g,360,15.8,33.0,0.0,0.0,73,100,PH
+F046,Beef tenderloin,Per 100 g,128,22.8,4.1,0.0,0.0,42,100,PH
+F047,Beef tongue,Per 100 g,214,14.8,15.2,4.4,0.0,102,100,PH
+F048,"Beef tongue, boiled",Per 100 g,227,11.4,12.0,18.3,0.0,65,100,PH
+F049,Beef tripe,Per 100 g,102,11.0,5.8,1.4,0.0,116,100,PH
+F050,"Beef tripe, boiled",Per 100 g,94,10.3,5.2,1.5,0.0,66,100,PH
+F051,Beef uterus,Per 100 g,88,15.8,1.2,3.5,0.0,112,100,PH
+F052,Carabeef blood,Per 100 g,75,18.6,0.0,0.2,-,-,100,PH
+F053,Carabeef brain,Per 100 g,136,9.4,10.1,1.9,0.0,121,100,PH
+F054,Carabeef chuck,Per 100 g,100,18.6,2.8,0.0,0.0,65,100,PH
+F055,Carabeef heart,Per 100 g,114,17.4,4.6,0.7,0.0,101,100,PH
+F056,"Carabeef intestine, large",Per 100 g,165,9.3,11.9,5.2,0.0,165,100,PH
+F057,"Carabeef intestine, small",Per 100 g,148,10.4,9.7,4.7,0.0,157,100,PH
+F058,Carabeef kidney,Per 100 g,77,14.0,1.8,1.1,0.0,147,100,PH
+F059,Carabeef lean meat,Per 100 g,90,20.6,0.8,0.0,0.0,45,100,PH
+F060,"Carabeef lean meat, boiled",Per 100 g,100,22.4,1.2,0.0,0.0,50,100,PH
+F061,Carabeef liver,Per 100 g,108,15.5,1.7,7.6,0.0,61,100,PH
+F062,Carabeef lung,Per 100 g,87,18.6,1.4,0.0,0.0,200,100,PH
+F063,Carabeef omasum,Per 100 g,37,8.7,0.2,0.1,0.0,58,100,PH
+F064,Carabeef reticulum,Per 100 g,119,11.2,6.9,2.9,0.0,133,100,PH
+F065,Carabeef round,Per 100 g,94,20.4,1.4,0.0,0.0,45,100,PH
+F066,Carabeef round steak,Per 100 g,100,21.4,1.6,0.0,0.0,48,100,PH
+F067,Carabeef rump,Per 100 g,85,19.3,0.9,0.0,0.0,37,100,PH
+F068,Carabeef shank,Per 100 g,102,20.2,2.4,0.0,0.0,55,100,PH
+F069,Carabeef spleen,Per 100 g,98,21.2,1.5,0.0,0.0,90,100,PH
+F070,Carabeef stomach,Per 100 g,81,18.7,0.7,0.0,0.0,123,100,PH
+F071,Carabeef w/ fat,Per 100 g,119,21.8,3.6,0.0,0.0,56,100,PH
+F072,"Carabeef w/ fat, boiled",Per 100 g,147,26.9,4.4,0.0,0.0,48,100,PH
+F075,Chevon back,Per 100 g,96,20.4,1.6,0.0,0.0,45,100,PH
+F076,Chevon breast,Per 100 g,82,17.7,1.2,0.0,0.0,39,100,PH
+F077,Chevon flank,Per 100 g,149,16.6,9.2,0.0,0.0,52,100,PH
+F078,Chevon heart,Per 100 g,125,17.1,5.9,0.8,0.0,147,100,PH
+F079,"Chevon intestine, small",Per 100 g,71,10.2,3.4,0.0,-,-,100,PH
+F080,Chevon kidney,Per 100 g,97,15.9,3.5,0.4,0.0,158,100,PH
+F081,Chevon leg,Per 100 g,72,17.0,0.4,0.0,0.0,44,100,PH
+F082,Chevon liver,Per 100 g,129,22.1,3.4,2.6,0.0,72,100,PH
+F083,Chevon loin,Per 100 g,95,22.3,0.6,0.0,0.0,47,100,PH
+F084,Chevon lung,Per 100 g,93,17.0,2.1,1.6,0.0,169,100,PH
+F085,Chevon neck,Per 100 g,121,23.3,3.1,0.0,0.0,81,100,PH
+F086,Chevon rib,Per 100 g,90,19.9,1.2,0.0,0.0,54,100,PH
+F087,Chevon shank,Per 100 g,89,19.8,1.1,0.0,0.0,53,100,PH
+F088,Chevon shoulder,Per 100 g,90,17.4,2.3,0.0,0.0,54,100,PH
+F089,Chevon stomach,Per 100 g,57,9.8,1.1,1.9,0.0,81,100,PH
+F090,"Chick, one-day old, fried",Per 100 g,237,25.3,14.6,1.2,-,151,100,PH
+F091,Chicken back,Per 100 g,207,17.4,15.3,0.0,0.0,51,100,PH
+F092,Chicken blood,Per 100 g,59,13.9,0.1,0.5,-,-,100,PH
+F093,Chicken breast,Per 100 g,131,21.6,5.0,0.0,0.0,66,100,PH
+F094,Chicken feet,Per 100 g,187,24.7,9.8,0.0,0.0,112,100,PH
+F095,"Chicken feet, bbq",Per 100 g,229,26.9,11.9,3.6,0.0,671,100,PH
+F096,Chicken gizzard,Per 100 g,106,21.8,1.0,2.5,0.0,83,100,PH
+F097,Chicken head,Per 100 g,129,13.1,8.2,0.8,0.0,37,100,PH
+F098,"Chicken head, bbq",Per 100 g,220,20.5,14.7,1.3,0.0,-,100,PH
+F099,Chicken heart,Per 100 g,197,11.6,15.9,1.9,0.0,144,100,PH
+F100,Chicken intestine,Per 100 g,155,13.0,11.4,0.0,-,24,100,PH
+F101,"Chicken intestine, bbq",Per 100 g,210,28.2,9.6,3.0,0.0,554,100,PH
+F102,Chicken leg/drumstick,Per 100 g,204,17.1,15.1,0.0,0.0,127,100,PH
+F103,Chicken liver,Per 100 g,124,18.1,3.9,4.0,0.0,97,100,PH
+F104,Chicken neck,Per 100 g,314,14.1,28.6,0.0,0.0,68,100,PH
+F105,"Chicken pullet, breast",Per 100 g,103,19.6,2.7,0.0,0.0,48,100,PH
+F106,"Chicken pullet, thigh",Per 100 g,103,19.6,2.7,0.0,0.0,56,100,PH
+F107,Chicken thigh,Per 100 g,149,19.8,7.7,0.0,0.0,88,100,PH
+F108,Chicken thigh & leg,Per 100 g,187,17.6,13.0,0.0,0.0,79,100,PH
+F109,Chicken wing,Per 100 g,194,18.9,13.2,0.0,0.0,81,100,PH
+F110,Chicken white meat,Per 100 g,110,20.6,3.1,0.0,0.0,78,100,PH
+F111,"Chicken, white meat, boiled",Per 100 g,173,32.9,4.6,0.0,0.0,81,100,PH
+F112,"Chicken, white meat, fried",Per 100 g,226,40.3,7.2,0.0,0.1,104,100,PH
+F113,"Chicken, whole",Per 100 g,215,17.4,16.2,0.0,0.0,69,100,PH
+F116,Duck back,Per 100 g,191,22.6,11.2,0.0,0.0,42,100,PH
+F117,Duck blood,Per 100 g,62,10.7,0.1,4.5,-,-,100,PH
+F118,Duck breast,Per 100 g,157,22.8,7.3,0.0,0.0,89,100,PH
+F119,Duck gizzard,Per 100 g,108,22.1,2.2,0.0,0.0,84,100,PH
+F120,Duck liver,Per 100 g,116,15.6,3.8,4.9,0.0,127,100,PH
+F121,Duck thigh,Per 100 g,171,20.5,9.9,0.0,0.0,38,100,PH
+F122,Duck wing,Per 100 g,144,24.4,5.2,0.0,0.0,37,100,PH
+F123,"Duck, wild, breast",Per 100 g,85,19.9,0.6,0.0,0.0,50,100,PH
+F124,"Duck, wild, thigh",Per 100 g,85,19.5,0.8,0.0,0.0,36,100,PH
+F125,Frog meat,Per 100 g,89,20.9,0.6,0.0,0.0,127,100,PH
+F126,Goose breast,Per 100 g,122,23.4,3.2,0.0,0.0,76,100,PH
+F127,Goose thigh,Per 100 g,127,23.0,3.9,0.0,0.0,77,100,PH
+F128,Lamb flank,Per 100 g,149,16.6,9.2,0.0,0.0,76,100,PH
+F129,Lamb foreshank,Per 100 g,135,19.9,6.1,0.0,0.0,59,100,PH
+F130,Lamb hind shank,Per 100 g,124,20.6,4.6,0.0,0.0,62,100,PH
+F131,Lamb liver,Per 100 g,136,21.8,4.0,3.1,0.0,74,100,PH
+F132,Lamb loin,Per 100 g,123,20.2,4.7,0.0,0.0,64,100,PH
+F133,Lamb lung,Per 100 g,95,17.3,1.7,2.5,0.0,175,100,PH
+F134,Lamb neck,Per 100 g,141,18.9,7.3,0.0,0.0,56,100,PH
+F135,Lamb riblet,Per 100 g,157,16.9,9.9,0.0,0.0,68,100,PH
+F136,Lamb roast/back,Per 100 g,129,19.2,5.8,0.0,0.0,59,100,PH
+F137,Lamb shoulder,Per 100 g,134,16.1,7.7,0.0,0.0,64,100,PH
+F139,Moor hen breast,Per 100 g,147,21.4,6.8,0.0,0.0,61,100,PH
+F140,Moor hen gizzard,Per 100 g,113,22.5,1.6,2.2,0.0,91,100,PH
+F141,Moor hen liver,Per 100 g,130,18.0,3.5,6.5,0.0,88,100,PH
+F142,Moor hen thigh,Per 100 g,134,20.1,5.9,0.0,0.0,65,100,PH
+F143,Pigeon breast,Per 100 g,207,17.1,15.4,0.0,0.0,63,100,PH
+F144,Pigeon thigh,Per 100 g,239,14.6,20.1,0.0,0.0,44,100,PH
+F145,"Pigeon, squab/young meat",Per 100 g,154,17.0,9.5,0.0,0.0,34,100,PH
+F146,Pork back fat,Per 100 g,513,11.6,51.8,0.0,0.0,47,100,PH
+F147,Pork belly,Per 100 g,393,14.5,37.2,0.0,0.0,40,100,PH
+F148,"Pork belly, broiled",Per 100 g,213,14.0,17.4,0.0,0.0,56,100,PH
+F149,"Pork belly, fried",Per 100 g,245,12.3,21.8,0.0,0.0,61,100,PH
+F151,"Pork belly, boiled",Per 100 g,444,13.0,43.6,0.0,0.0,89,100,PH
+F152,Pork blood,Per 100 g,55,11.6,0.0,2.1,0.0,-,100,PH
+F153,Pork Boston butt,Per 100 g,329,14.3,30.2,0.0,0.0,64,100,PH
+F154,"Pork Boston butt, boiled",Per 100 g,346,10.1,33.9,0.0,0.0,57,100,PH
+F155,"Pork Boston butt, broiled",Per 100 g,203,13.9,16.4,0.0,0.0,50,100,PH
+F156,"Pork Boston butt, fried",Per 100 g,239,14.2,20.2,0.0,0.0,76,100,PH
+F157,"Pork Boston butt, lean",Per 100 g,278,17.3,23.2,0.0,0.0,56,100,PH
+F158,"Pork Boston butt, lean, boiled",Per 100 g,212,15.6,16.6,0.0,0.0,47,100,PH
+F159,"Pork Boston butt, lean, broiled",Per 100 g,154,22.3,7.2,0.0,0.0,57,100,PH
+F160,"Pork Boston butt, lean, fried",Per 100 g,136,20.5,6.0,0.0,0.0,63,100,PH
+F161,Pork center loin,Per 100 g,519,12.5,52.1,0.0,0.0,49,100,PH
+F162,Pork chop,Per 100 g,390,14.5,36.9,0.0,0.0,39,100,PH
+F163,Pork ear,Per 100 g,385,11.8,36.9,1.3,0.0,249,100,PH
+F164,"Pork ear, bbq",Per 100 g,350,23.8,25.9,5.4,0.0,503,100,PH
+F165,Pork ham,Per 100 g,298,16.3,25.8,0.1,0.0,58,100,PH
+F166,Pork head,Per 100 g,326,14.4,28.8,2.3,-,-,100,PH
+F167,Pork heart,Per 100 g,116,16.4,5.3,0.6,0.0,99,100,PH
+F168,"Pork intestine, large",Per 100 g,81,9.6,2.2,5.6,0.0,39,100,PH
+F169,"Pork intestine, small",Per 100 g,71,12.6,2.3,0.0,0.0,107,100,PH
+F170,"Pork intestine, small, bbq",Per 100 g,318,20.6,24.8,3.0,0.0,577,100,PH
+F171,Pork kidney,Per 100 g,105,14.4,3.9,3.1,0.0,132,100,PH
+F172,"Pork kidney, boiled",Per 100 g,106,13.9,3.2,5.3,0.0,60,100,PH
+F173,Pork leg,Per 100 g,203,20.2,13.6,0.0,0.0,101,100,PH
+F174,Pork liver,Per 100 g,119,18.0,2.8,5.5,0.0,85,100,PH
+F175,"Pork liver, boiled",Per 100 g,170,17.8,3.5,16.9,0.0,47,100,PH
+F176,"Pork liver, broiled",Per 100 g,180,19.8,4.4,15.4,0.0,49,100,PH
+F177,"Pork liver, fried",Per 100 g,197,19.9,5.4,17.1,0.0,99,100,PH
+F178,Pork lung,Per 100 g,73,12.2,1.8,2.0,0.0,116,100,PH
+F179,Pork picnic,Per 100 g,387,13.4,37.0,0.0,0.0,61,100,PH
+F180,"Pork picnic, boiled",Per 100 g,368,14.8,34.3,0.0,0.0,119,100,PH
+F181,Pork skin,Per 100 g,319,19.8,26.6,0.0,0.0,6,100,PH
+F182,Pork spare rib,Per 100 g,293,14.6,26.1,0.0,0.0,60,100,PH
+F183,Pork spleen,Per 100 g,87,16.1,2.5,0.0,0.0,75,100,PH
+F184,"Pork spleen, boiled",Per 100 g,94,15.2,3.7,0.0,0.0,64,100,PH
+F185,Pork stomach,Per 100 g,121,13.1,6.5,2.6,0.0,64,100,PH
+F186,Pork tail,Per 100 g,477,15.4,46.1,0.0,0.0,75,100,PH
+F187,Pork tenderloin,Per 100 g,237,16.7,18.9,0.0,0.0,57,100,PH
+F188,Pork tongue,Per 100 g,241,14.8,20.2,0.1,0.0,93,100,PH
+F189,Pork uterus,Per 100 g,77,15.4,1.7,0.0,0.0,128,100,PH
+F190,"Pork, suckling, belly",Per 100 g,174,18.3,11.2,0.0,0.0,23,100,PH
+F191,"Pork, suckling, blood",Per 100 g,56,11.5,0.0,2.6,0.0,-,100,PH
+F192,"Pork, suckling, brain",Per 100 g,129,10.2,9.7,0.2,0.0,89,100,PH
+F193,"Pork, suckling, heart",Per 100 g,125,16.3,6.6,0.0,0.0,101,100,PH
+F194,"Pork, suckling, intestine, large",Per 100 g,87,9.1,2.5,6.9,0.0,42,100,PH
+F195,"Pork, suckling, intestine, small",Per 100 g,61,12.5,0.9,0.6,0.0,101,100,PH
+F196,"Pork, suckling, kidney",Per 100 g,95,15.9,3.4,0.3,0.0,121,100,PH
+F197,"Pork, suckling, leg",Per 100 g,128,19.9,5.4,0.0,0.0,77,100,PH
+F198,"Pork, suckling, liver",Per 100 g,116,16.0,2.8,6.6,0.0,82,100,PH
+F199,"Pork, suckling, lung",Per 100 g,87,15.8,2.4,0.6,0.0,137,100,PH
+F200,"Pork, suckling, spare rib",Per 100 g,168,17.0,11.1,0.0,0.0,42,100,PH
+F201,"Pork, suckling, spleen",Per 100 g,105,15.6,4.2,1.3,0.0,84,100,PH
+F202,"Pork, suckling, stomach",Per 100 g,95,14.3,4.2,0.0,0.0,54,100,PH
+F203,Quail meat,Per 100 g,154,21.1,7.7,0.0,0.0,51,100,PH
+F204,Rabbit liver,Per 100 g,111,15.4,2.5,6.6,-,-,100,PH
+F205,Rabbit thigh,Per 100 g,94,18.6,2.2,0.0,0.0,41,100,PH
+F206,Rabbit white meat,Per 100 g,94,18.2,2.4,0.0,0.0,41,100,PH
+F207,Snipe lean meat,Per 100 g,113,21.0,3.2,0.0,0.0,43,100,PH
+F208,Turkey breast,Per 100 g,100,24.1,0.4,0.0,0.0,115,100,PH
+F209,Turkey liver,Per 100 g,124,19.2,3.9,2.9,0.0,147,100,PH
+F210,Turkey thigh,Per 100 g,100,20.3,2.1,0.0,0.0,61,100,PH
+F211,Venison rib,Per 100 g,89,21.9,0.1,0.0,0.0,45,100,PH
+F212,Venison thigh,Per 100 g,89,21.9,0.2,0.0,0.0,45,100,PH
+F213,Bacon,Per 100 g,603,11.1,58.3,8.4,0.0,969,100,PH
+F214,"Beef chunk, cnd",Per 100 g,252,14.7,18.3,7.0,0.0,789,100,PH
+F215,Beef jerky,Per 100 g,102,13.8,3.6,3.7,0.0,694,100,PH
+F217,Beef spread,Per 100 g,227,14.6,14.5,9.6,0.2,767,100,PH
+F218,"Beef, sweet cured",Per 100 g,80,18.1,0.8,0.0,0.0,715,100,PH
+F219,Carabeef jerky,Per 100 g,220,51.7,1.5,0.0,0.0,1895,100,PH
+F220,Chicken liver spread,Per 100 g,211,8.4,15.4,9.8,0.0,407,100,PH
+F221,Chicken meat ball,Per 100 g,147,9.8,4.8,16.1,-,-,100,PH
+F222,Chicken nugget,Per 100 g,220,15.5,11.2,14.3,1.2,520,100,PH
+F223,"Sausage, chicken",Per 100 g,185,10.7,10.8,11.3,1.4,791,100,PH
+F224,Chicken spread,Per 100 g,211,10.4,14.5,9.6,0.3,624,100,PH
+F225,Corned beef loaf,Per 100 g,227,13.3,17.9,3.1,0.0,689,100,PH
+F226,"Corned beef, cnd",Per 100 g,168,17.9,10.7,0.0,0.0,567,100,PH
+F227,Embotido,Per 100 g,164,10.1,8.5,11.7,0.6,939,100,PH
+F228,Ham,Per 100 g,421,16.4,39.5,0.0,0.0,1836,100,PH
+F229,"Ham, chopped, cnd",Per 100 g,220,14.1,16.1,4.6,0.0,1250,100,PH
+F230,"Ham, deviled spread",Per 100 g,254,13.8,18.9,7.2,0.0,1201,100,PH
+F231,"Ham, pork, sweet, chopped",Per 100 g,117,10.7,4.4,8.7,1.2,1208,100,PH
+F232,Hamburger patty,Per 100 g,319,10.8,20.1,23.8,2.7,128,100,PH
+F233,"Liver pate, cnd",Per 100 g,232,14.5,17.5,4.0,0.0,600,100,PH
+F234,Liver spread,Per 100 g,185,9.3,9.8,14.9,1.7,699,100,PH
+F235,"Luncheon meat, cnd",Per 100 g,307,13.7,26.4,3.7,0.0,956,100,PH
+F236,"Luncheon meat, deviled spread",Per 100 g,308,12.1,28.4,1.0,0.0,1302,100,PH
+F237,"Luncheon meat, pork & ham",Per 100 g,321,13.6,28.6,2.3,0.0,1414,100,PH
+F238,"Luncheon meat, pork, Chinese style",Per 100 g,296,10.7,25.0,7.1,0.0,902,100,PH
+F240,Meat loaf,Per 100 g,161,9.7,7.7,13.1,1.2,725,100,PH
+F241,"Pork crackling, internal organ",Per 100 g,373,37.8,24.6,0.0,0.0,324,100,PH
+F242,"Pork crackling, skin",Per 100 g,591,65.6,36.5,0.0,0.0,472,100,PH
+F243,Pork jerky,Per 100 g,277,15.8,19.2,10.2,0.0,1086,100,PH
+F245,"Pork, sweet cured",Per 100 g,206,11.2,6.4,25.9,0.0,1037,100,PH
+F246,"Pork, sweet cured, Pampanga",Per 100 g,223,10.1,13.8,14.7,0.0,916,100,PH
+F247,"Potted meat spread, w/ cereal, cnd",Per 100 g,186,7.7,9.9,16.6,1.7,674,100,PH
+F248,"Sausage, bologna",Per 100 g,165,10.1,11.7,4.9,0.0,598,100,PH
+F249,"Sausage, chorizo",Per 100 g,440,29.6,33.2,5.8,0.0,1345,100,PH
+F250,"Sausage, chorizo, Bilbao style",Per 100 g,436,18.0,40.3,0.2,0.0,1265,100,PH
+F251,"Sausage, frankfurter",Per 100 g,208,13.3,15.1,4.8,2.0,899,100,PH
+F252,"Sausage, ham",Per 100 g,160,14.1,10.3,2.8,1.2,1062,100,PH
+F253,"Sausage, hotdog",Per 100 g,226,13.4,17.0,4.8,0.5,698,100,PH
+F254,"Sausage, hotdog, smoked",Per 100 g,160,12.9,10.8,2.7,0.0,572,100,PH
+F255,"Sausage, hotdog, w/ cheese",Per 100 g,245,11.7,18.1,8.8,3.0,1088,100,PH
+F256,"Sausage, mortadella",Per 100 g,260,8.6,22.1,6.7,0.0,1037,100,PH
+F257,"Sausage, pork",Per 100 g,315,11.8,22.7,15.8,0.9,714,100,PH
+F258,"Sausage, pork & beef",Per 100 g,432,13.5,38.5,7.8,0.0,1055,100,PH
+F259,"Sausage, pork, Chinese",Per 100 g,498,15.6,42.6,13.0,0.0,1001,100,PH
+F260,"Sausage, salami",Per 100 g,244,16.2,18.7,2.7,0.0,1023,100,PH
+F261,"Sausage, Vienna",Per 100 g,163,8.8,10.5,8.4,0.0,730,100,PH
+F262,"Sausage, Vienna, tidbits",Per 100 g,127,8.3,6.6,8.5,0.0,614,100,PH
+F263,Venison jerky,Per 100 g,323,62.8,8.0,0.0,0.0,2441,100,PH
+F264,"Chicken blood, bbq",Per 100 g,91,16.0,1.7,2.8,0.0,456,100,PH
+F265,"Chicken, whole, seasoned, roasted",Per 100 g,226,24.8,12.0,4.7,0.0,716,100,PH
+F266,"Chicken, whole, seasoned, roasted, skin and visible fat removed",Per 100 g,162,26.2,5.4,2.2,0.0,677,100,PH
+F267,"Pork, bbq",Per 100 g,408,21.5,29.8,13.5,0.0,340,100,PH
+F268,"Pork back, seasoned, roasted, skin and visible fat removed",Per 100 g,177,31.2,4.9,2.0,0.0,174,100,PH
+F269,"Pork belly, seasoned, roasted",Per 100 g,385,21.0,31.6,4.1,0.0,350,100,PH
+F270,"Pork belly, seasoned, roasted, skin and visible fat removed",Per 100 g,299,24.0,22.6,0.0,0.0,364,100,PH
+F271,"Pork skin, seasoned, roasted",Per 100 g,559,33.0,47.4,0.0,0.0,232,100,PH
+F272,"Beef franks, raw",Per 100 g,205,13.9,16.1,1.0,1.9,842,100,PH
+F273,"Sausage, pepperoni, raw",Per 100 g,237,12.8,18.6,4.6,2.3,1015,100,PH
+G001,Abalone,Per 100 g,120,20.5,0.9,7.4,0.0,372,100,PH
+G002,Abalone juice,Per 100 g,74,10.6,0.4,7.1,0.0,241,100,PH
+G003,Amber fish,Per 100 g,81,18.1,0.9,0.0,0.0,31,100,PH
+G004,Sinarapan,Per 100 g,64,13.3,1.2,0.0,0.0,66,100,PH
+G005,"Anchovy, Indian (adult)",Per 100 g,85,20.9,0.1,0.1,0.0,163,100,PH
+G006,"Anchovy, long-jawed, w/o head",Per 100 g,129,19.9,5.5,0.0,0.0,148,100,PH
+G007,"Anchovy, long-jawed, whole",Per 100 g,69,14.1,1.4,0.0,0.0,120,100,PH
+G008,"Barracuda, striped",Per 100 g,90,19.7,1.2,0.0,-,154,100,PH
+G009,"Butterfly fish, threadfin",Per 100 g,85,19.8,0.6,0.0,-,-,100,PH
+G010,"Fusilier, goldband",Per 100 g,128,21.5,4.7,0.0,0.0,74,100,PH
+G011,Cardinal fish,Per 100 g,73,17.4,0.4,0.0,-,-,100,PH
+G012,Carp,Per 100 g,185,17.8,12.6,0.0,0.0,102,100,PH
+G013,"Catfish, freshwater",Per 100 g,80,18.7,0.6,0.0,0.0,63,100,PH
+G014,"Catfish, saltwater",Per 100 g,86,18.2,1.5,0.0,0.0,98,100,PH
+G015,"Cavalla, banded",Per 100 g,108,20.1,3.1,0.0,0.0,70,100,PH
+G016,"Cavalla, banded, fried",Per 100 g,160,20.2,8.8,0.0,0.0,87,100,PH
+G017,"Cavalla, banded, steamed",Per 100 g,67,11.2,2.5,0.0,0.0,42,100,PH
+G018,"Clam, bilakong",Per 100 g,82,10.2,2.0,5.8,0.0,572,100,PH
+G019,"Clam, freshwater, tulya",Per 100 g,95,7.6,1.9,11.8,0.0,34,100,PH
+G020,"Clam, freshwater, tulya, boiled",Per 100 g,105,8.9,1.9,13.0,0.0,74,100,PH
+G021,"Clam, halaan",Per 100 g,47,6.7,0.7,3.5,0.0,645,100,PH
+G022,"Clam, halaan, boiled",Per 100 g,74,10.5,1.1,5.4,0.0,-,100,PH
+G023,"Clam, imbao",Per 100 g,64,6.8,0.8,7.3,0.0,506,100,PH
+G024,"Clam, imbao, boiled",Per 100 g,47,6.4,0.6,4.1,0.0,-,100,PH
+G025,"Clam, kabibi",Per 100 g,62,9.0,1.6,3.0,0.0,921,100,PH
+G026,"Clam, kanturi",Per 100 g,59,12.2,1.0,0.3,0.0,457,100,PH
+G027,"Clam, lukan",Per 100 g,43,5.1,0.7,4.0,0.0,294,100,PH
+G028,"Clam, rayed shell",Per 100 g,48,8.7,0.8,1.4,0.0,357,100,PH
+G029,"Clam, razor shell",Per 100 g,41,8.0,0.4,1.4,0.0,329,100,PH
+G030,"Clam, tongue",Per 100 g,98,12.4,3.4,4.4,0.0,612,100,PH
+G031,"Clam, tongue, head, blanched",Per 100 g,79,5.9,2.0,9.4,0.0,-,100,PH
+G032,"Clam, tongue, tail",Per 100 g,51,9.4,0.4,2.5,0.0,369,100,PH
+G033,"Clam, venus",Per 100 g,138,12.8,2.0,17.3,0.0,961,100,PH
+G034,"Clam, wedge shell/bean",Per 100 g,71,8.8,1.7,5.1,0.0,509,100,PH
+G035,"Climbing perch, common",Per 100 g,71,17.4,0.2,0.0,0.0,56,100,PH
+G036,"Crab, blue swimming, fat",Per 100 g,86,11.5,4.4,0.0,0.0,644,100,PH
+G037,"Crab, blue swimming, w/o fat",Per 100 g,93,19.9,0.5,2.2,0.0,342,100,PH
+G038,"Crab, blue swimming, w/o fat, boiled",Per 100 g,98,19.4,0.9,3.1,0.0,494,100,PH
+G039,"Crab, mud/mangrove, fat",Per 100 g,188,26.0,5.6,8.5,0.0,1163,100,PH
+G040,"Crab, mud/mangrove, w/o fat",Per 100 g,103,18.5,3.2,0.0,0.0,247,100,PH
+G041,"Crab, mud/mangrove, w/o fat, boiled",Per 100 g,88,17.6,1.9,0.0,0.0,326,100,PH
+G042,"Crab, shore",Per 100 g,122,13.8,3.8,8.1,0.0,453,100,PH
+G043,"Crevalle, deep-bellied",Per 100 g,87,19.4,1.0,0.0,0.0,88,100,PH
+G044,"Crevalle, even-bellied",Per 100 g,85,17.7,1.6,0.0,0.0,83,100,PH
+G045,"Croaker, tigertooth",Per 100 g,89,19.1,1.4,0.0,0.0,62,100,PH
+G046,"Croaker, plain",Per 100 g,80,19.1,0.4,0.0,0.0,110,100,PH
+G047,"Croaker, smooth-scaled whiskered",Per 100 g,84,18.6,1.1,0.0,0.0,53,100,PH
+G048,"Drepane, speckled",Per 100 g,80,16.8,1.4,0.0,0.0,88,100,PH
+G049,"Eel, silver pike",Per 100 g,72,17.5,0.2,0.0,0.0,31,100,PH
+G050,"Eel, swamp",Per 100 g,139,19.2,6.9,0.0,0.0,150,100,PH
+G051,Fish roe,Per 100 g,123,17.3,5.6,0.9,0.0,120,100,PH
+G052,"Flatfish/Brill, rough-scaled",Per 100 g,84,20.5,0.2,0.0,0.0,113,100,PH
+G053,"Flatfish/Brill, smooth-scaled",Per 100 g,81,19.7,0.2,0.0,0.0,94,100,PH
+G054,"Flatfish/Turbot, Indian",Per 100 g,94,23.0,0.2,0.0,0.0,116,100,PH
+G055,"Flathead, Indian",Per 100 g,90,22.1,0.2,0.0,0.0,91,100,PH
+G056,Flying fish,Per 100 g,86,21.0,0.2,0.0,0.0,85,100,PH
+G057,"Garfish, common",Per 100 g,115,26.6,0.9,0.0,0.0,79,100,PH
+G058,"Gizzard shad, short-finned",Per 100 g,78,18.6,0.4,0.0,0.0,98,100,PH
+G059,"Goatfish, ochrebanded",Per 100 g,87,18.7,1.3,0.0,0.0,98,100,PH
+G060,"Goby, flat-headed",Per 100 g,81,19.7,0.2,0.0,0.0,59,100,PH
+G061,"Goby, long-tailed",Per 100 g,89,16.8,2.4,0.0,0.0,60,100,PH
+G062,Gouramy,Per 100 g,91,16.9,2.6,0.0,0.0,19,100,PH
+G063,"Grouper, whitespotted",Per 100 g,63,14.9,0.4,0.0,0.0,129,100,PH
+G064,"Hair tail, largehead",Per 100 g,80,19.1,0.4,0.0,0.0,86,100,PH
+G065,"Halfbeak, long billed",Per 100 g,88,19.2,1.2,0.0,0.0,-,100,PH
+G066,Hard-tail,Per 100 g,96,21.4,1.2,0.0,0.0,102,100,PH
+G067,"Herring, big-eyed",Per 100 g,96,22.2,0.8,0.0,0.0,64,100,PH
+G068,"Herring, deep-bodied",Per 100 g,91,19.7,1.3,0.0,0.0,59,100,PH
+G069,"Lizard fish, common",Per 100 g,75,18.2,0.2,0.0,0.0,70,100,PH
+G070,"Mackerel, short-bodied",Per 100 g,108,21.6,2.4,0.0,0.0,172,100,PH
+G071,"Mackerel, short-bodied, fried",Per 100 g,221,21.6,14.9,0.0,0.0,117,100,PH
+G072,"Mackerel, Spanish",Per 100 g,80,17.6,1.1,0.0,0.0,49,100,PH
+G073,"Mackerel, Indian",Per 100 g,118,21.8,3.4,0.0,0.0,49,100,PH
+G074,Milkfish,Per 100 g,137,19.8,6.4,0.0,0.0,67,100,PH
+G075,"Milkfish, broiled",Per 100 g,137,23.4,4.8,0.0,0.0,82,100,PH
+G076,"Milkfish, fried",Per 100 g,188,23.6,10.4,0.0,0.0,106,100,PH
+G077,"Mojarra, longfin",Per 100 g,77,18.9,0.2,0.0,0.0,48,100,PH
+G078,"Mojarra, whipfin",Per 100 g,87,20.4,0.6,0.0,0.0,107,100,PH
+G079,"Moonfish, spotted",Per 100 g,116,24.4,2.0,0.0,0.0,73,100,PH
+G080,Moray,Per 100 g,116,20.1,4.0,0.0,0.0,41,100,PH
+G081,"Mudfish/Murrel, striated",Per 100 g,99,21.2,1.6,0.0,0.0,88,100,PH
+G082,"Mudfish/Murrel, striated, boiled",Per 100 g,95,22.8,0.4,0.0,0.0,95,100,PH
+G083,"Mullet, black-finned",Per 100 g,113,19.3,4.0,0.0,0.0,68,100,PH
+G084,"Mullet, large-scaled",Per 100 g,89,20.0,1.0,0.0,0.0,61,100,PH
+G085,"Mussel, green",Per 100 g,166,13.6,7.5,11.1,0.0,528,100,PH
+G086,"Mussel, green, boiled",Per 100 g,33,3.1,0.4,4.3,0.0,92,100,PH
+G087,"Bream, doublewhip threadfin",Per 100 g,90,19.0,1.5,0.0,0.0,88,100,PH
+G088,Octopus,Per 100 g,59,13.3,0.6,0.0,0.0,363,100,PH
+G089,Oyster,Per 100 g,60,5.9,1.7,5.2,0.0,882,100,PH
+G090,"Oyster, window pane, meat",Per 100 g,119,23.3,1.4,3.3,0.0,467,100,PH
+G091,"Parrot fish, daisy",Per 100 g,84,20.0,0.4,0.0,0.0,103,100,PH
+G092,"Threadfish, Indian",Per 100 g,89,20.5,0.8,0.0,0.0,65,100,PH
+G093,"Silvergrunt, bluecheek",Per 100 g,83,19.2,0.7,0.0,0.0,56,100,PH
+G094,"Pomfret, black",Per 100 g,93,18.8,2.0,0.0,0.0,98,100,PH
+G095,"Bream, humpnose big-eye",Per 100 g,80,18.9,0.5,0.0,0.0,48,100,PH
+G096,"Emperor, pink ear",Per 100 g,89,21.1,0.5,0.0,0.0,53,100,PH
+G097,"Seabream, goldsilk",Per 100 g,77,19.0,0.1,0.0,0.0,48,100,PH
+G098,Red snapper/Malabar,Per 100 g,64,15.6,0.2,0.0,0.0,79,100,PH
+G099,"Runner, rainbow",Per 100 g,85,19.6,0.7,0.0,0.0,54,100,PH
+G100,"Sardine, bombon",Per 100 g,114,19.3,4.1,0.0,0.0,65,100,PH
+G101,"Sardine, fimbriated",Per 100 g,106,20.5,2.7,0.0,0.0,96,100,PH
+G102,"Sardine, fimbriated, fry",Per 100 g,101,20.6,2.1,0.0,0.0,115,100,PH
+G103,"Sardine, Indian",Per 100 g,120,19.5,4.7,0.0,0.0,68,100,PH
+G104,"Scad, big-eye",Per 100 g,105,20.8,2.4,0.0,0.0,62,100,PH
+G105,"Scad, round",Per 100 g,100,20.4,2.1,0.0,0.0,88,100,PH
+G106,Sea bass,Per 100 g,75,17.8,0.4,0.0,0.0,69,100,PH
+G107,"Sea catfish, smooth-headed",Per 100 g,89,21.3,0.4,0.0,0.0,106,100,PH
+G108,Sea cucumber,Per 100 g,23,5.1,0.1,0.3,0.0,554,100,PH
+G113,"Shrimp, banana prawn",Per 100 g,91,19.0,0.8,2.0,0.0,128,100,PH
+G114,"Shrimp, banana prawn, boiled",Per 100 g,104,11.2,0.4,14.0,0.0,113,100,PH
+G115,"Shrimp, freshwater",Per 100 g,93,19.4,1.7,0.0,0.0,235,100,PH
+G116,"Shrimp, freshwater (small)",Per 100 g,98,20.2,1.9,0.0,0.0,21,100,PH
+G117,"Shrimp, giant tiger prawn",Per 100 g,93,20.0,0.9,1.2,0.0,129,100,PH
+G118,"Shrimp, giant tiger prawn, head",Per 100 g,74,11.9,2.2,1.6,0.0,101,100,PH
+G119,"Shrimp, greasy back",Per 100 g,78,17.7,0.6,0.4,0.0,110,100,PH
+G120,"Shrimp, greasy back, boiled",Per 100 g,84,18.2,0.4,1.9,0.0,94,100,PH
+G121,"Shrimp, sergestid",Per 100 g,78,16.6,1.3,0.0,0.0,418,100,PH
+G122,"Siganid, javan",Per 100 g,89,19.8,1.1,0.0,0.0,65,100,PH
+G123,Silver-bar fish,Per 100 g,87,21.1,0.3,0.0,0.0,60,100,PH
+G125,"Slipmouth, black-finned",Per 100 g,88,18.7,1.5,0.0,0.0,105,100,PH
+G126,"Slipmouth, common",Per 100 g,91,18.2,2.0,0.0,0.0,162,100,PH
+G127,"Snail, black",Per 100 g,79,12.2,0.4,6.6,0.0,84,100,PH
+G128,"Snail, freshwater",Per 100 g,94,9.4,0.8,12.2,0.0,53,100,PH
+G129,"Snail, golden",Per 100 g,74,12.8,0.6,4.3,0.0,69,100,PH
+G130,Spadefish,Per 100 g,99,20.3,2.0,0.0,0.0,81,100,PH
+G131,Squid,Per 100 g,71,15.6,1.0,0.0,0.0,143,100,PH
+G132,"Squid, boiled",Per 100 g,80,17.4,1.2,0.0,0.0,40,100,PH
+G133,"Sting ray, blue-spotted",Per 100 g,74,18.3,0.1,0.0,0.0,73,100,PH
+G134,"Sting ray, honeycomb",Per 100 g,59,14.3,0.2,0.0,0.0,58,100,PH
+G135,"Surgeonfish, blue-lined",Per 100 g,78,17.8,0.7,0.0,0.0,-,100,PH
+G136,Swordfish,Per 100 g,113,19.2,4.0,0.0,0.0,75,100,PH
+G137,Tarpon,Per 100 g,88,20.8,0.5,0.0,0.0,58,100,PH
+G138,"Ten-pounder, Hawaiian",Per 100 g,77,18.8,0.2,0.0,0.0,53,100,PH
+G139,"Therapon, convex-lined",Per 100 g,79,18.3,0.6,0.0,0.0,101,100,PH
+G140,"Theraponid, silvery",Per 100 g,75,18.4,0.2,0.0,0.0,68,100,PH
+G141,"Terapon, largescaled",Per 100 g,89,20.8,0.6,0.0,0.0,65,100,PH
+G142,Threadfin fish,Per 100 g,81,18.4,0.8,0.0,0.0,26,100,PH
+G143,"Threadfin, fourfinger",Per 100 g,73,17.9,0.1,0.0,0.0,24,100,PH
+G144,"Threadfin, small-mouth",Per 100 g,81,19.7,0.2,0.0,0.0,26,100,PH
+G145,Tilapia,Per 100 g,107,18.1,3.8,0.0,0.0,52,100,PH
+G146,"Tuna, frigate",Per 100 g,119,24.0,2.6,0.0,0.0,73,100,PH
+G147,"Tuna, yellow-fin",Per 100 g,107,23.6,1.4,0.0,0.0,95,100,PH
+G148,"Whiting, common",Per 100 g,89,21.1,0.5,0.0,0.0,82,100,PH
+G149,"Amber fish, dried",Per 100 g,275,57.2,5.1,0.0,0.0,8814,100,PH
+G150,"Anchovy, long-jawed, dried",Per 100 g,318,69.0,4.7,0.0,0.0,-,100,PH
+G151,"Anchovy, long-jawed, dried, ground",Per 100 g,351,82.0,2.6,0.0,0.0,-,100,PH
+G152,"Fusilier, goldband, dried",Per 100 g,214,42.6,4.9,0.0,0.0,7353,100,PH
+G153,"Catfish, freshwater, dried",Per 100 g,275,45.6,10.3,0.0,0.0,7799,100,PH
+G154,"Catfish, saltwater, dried",Per 100 g,201,43.9,2.8,0.0,0.0,6807,100,PH
+G155,"Cavalla, banded, dried",Per 100 g,218,44.2,4.6,0.0,0.0,6448,100,PH
+G156,"Cod, dried",Per 100 g,218,51.8,1.2,0.0,0.0,6050,100,PH
+G157,"Crab, mud/mangrove, meat, cnd",Per 100 g,102,23.5,0.8,0.3,0.0,743,100,PH
+G158,"Crevalle, deep-bellied, dried",Per 100 g,288,43.6,12.6,0.0,0.0,6773,100,PH
+G159,"Croaker, plain, dried",Per 100 g,201,41.9,3.7,0.0,0.0,7071,100,PH
+G160,"Eel, swamp, dried",Per 100 g,238,47.4,5.4,0.0,0.0,7479,100,PH
+G161,Fish ball,Per 100 g,121,8.6,0.5,20.6,0.0,898,100,PH
+G162,"Fish ball, fried",Per 100 g,266,10.3,10.2,33.3,0.0,1723,100,PH
+G163,"Fish preparation, quekiam",Per 100 g,129,4.2,2.1,23.4,-,-,100,PH
+G164,"Flatfish/Brill, rough-scaled, dried",Per 100 g,266,54.7,1.4,8.7,0.0,8627,100,PH
+G165,"Flatfish/Brill, rough-scaled, dried",Per 100 g,201,47.7,1.1,0.0,0.0,6387,100,PH
+G166,"Gizzard shad, short-finned, dried",Per 100 g,149,26.0,5.0,0.0,0.0,5902,100,PH
+G167,"Gizzard shad, short-finned, smoked",Per 100 g,130,26.6,2.6,0.0,0.0,1219,100,PH
+G168,"Goby, flat-headed, dried",Per 100 g,187,44.8,0.9,0.0,0.0,7270,100,PH
+G169,"Sinarapan, dried",Per 100 g,291,55.5,7.7,0.0,0.0,-,100,PH
+G170,"Grouper, whitespotted, dried",Per 100 g,158,35.8,1.6,0.0,0.0,4584,100,PH
+G171,"Hard-tail, dried",Per 100 g,219,48.7,2.7,0.0,0.0,6200,100,PH
+G172,"Jellyfish, dried",Per 100 g,69,7.2,0.5,8.8,0.0,9629,100,PH
+G173,"Lizard fish, common, dried",Per 100 g,178,41.5,1.3,0.0,0.0,7126,100,PH
+G174,"Mackerel scad, in tomato sce, cnd",Per 100 g,147,13.4,9.4,2.2,0.2,212,100,PH
+G175,"Mackerel, short-bodied, dried",Per 100 g,202,41.2,4.1,0.0,0.0,6840,100,PH
+G176,"Mackerel, short-bodied, smoked",Per 100 g,139,29.8,2.2,0.0,0.0,544,100,PH
+G177,"Mackerel, Spanish, dried",Per 100 g,184,41.0,2.2,0.0,0.0,6409,100,PH
+G178,"Mackerel, Indian, dried",Per 100 g,193,41.0,3.2,0.0,0.0,6442,100,PH
+G179,"Mackerel, Indian, in tomato sce",Per 100 g,105,16.5,4.1,0.0,0.1,186,100,PH
+G180,"Milkfish, dried",Per 100 g,415,51.2,23.3,0.0,0.0,8616,100,PH
+G181,"Milkfish, in natural oil, cnd",Per 100 g,108,16.6,4.5,0.3,0.0,266,100,PH
+G182,"Milkfish, in spiced oil, cnd",Per 100 g,295,15.8,25.4,0.9,0.5,323,100,PH
+G183,"Milkfish, smoked",Per 100 g,212,27.2,11.5,0.0,0.0,1446,100,PH
+G184,"Mudfish/Murrel, striated, dried",Per 100 g,215,45.7,3.6,0.0,0.0,-,100,PH
+G185,"Mullet, black-finned, dried",Per 100 g,189,31.3,7.1,0.0,0.0,6001,100,PH
+G186,"Mullet, large-scaled, dried",Per 100 g,199,45.4,1.9,0.0,0.0,7104,100,PH
+G187,"Bream, doublewhip threadfin, dried",Per 100 g,162,35.4,2.3,0.0,0.0,6531,100,PH
+G188,"Oyster, dried",Per 100 g,355,46.0,7.9,24.9,0.0,802,100,PH
+G189,"Parrot fish, daisy, dried",Per 100 g,242,59.2,0.6,0.0,0.0,8616,100,PH
+G190,"Emperor, pink ear, dried",Per 100 g,181,43.3,0.9,0.0,0.0,6630,100,PH
+G191,"Seabream, goldsilk, dried",Per 100 g,193,40.1,3.6,0.0,0.0,6575,100,PH
+G192,"Red snapper/Malabar, dried",Per 100 g,204,45.0,2.7,0.0,0.0,7468,100,PH
+G193,"Runner, rainbow, in oil, cnd",Per 100 g,192,20.4,8.2,9.0,0.0,444,100,PH
+G194,"Sardine, bombon, dried",Per 100 g,157,26.2,5.8,0.0,0.0,207,100,PH
+G195,"Sardine, bombon, smoked",Per 100 g,155,31.0,3.4,0.0,0.0,1453,100,PH
+G196,"Sardine, fimbriated, fry, dried",Per 100 g,183,40.9,2.1,0.0,0.0,-,100,PH
+G197,"Sardine, fimbriated, fry, dried",Per 100 g,343,57.3,12.6,0.0,0.0,-,100,PH
+G198,"Sardine, fimbriated, smoked",Per 100 g,168,31.2,4.0,1.9,0.0,1443,100,PH
+G199,"Sardine, Indian, dried",Per 100 g,160,37.4,1.1,0.0,0.0,-,100,PH
+G200,"Sardine, Indian, dried",Per 100 g,215,43.0,4.8,0.0,0.0,-,100,PH
+G201,"Sardine, Indian, smoked",Per 100 g,160,30.0,4.4,0.0,0.0,1348,100,PH
+G202,"Sardines, in spiced oil, cnd",Per 100 g,438,19.8,39.9,0.0,0.7,432,100,PH
+G203,"Sardines, in tomato sce, cnd",Per 100 g,88,9.7,4.3,2.7,0.4,311,100,PH
+G204,"Sardines, smoked, cnd",Per 100 g,157,29.0,4.2,0.8,0.0,1112,100,PH
+G205,"Scad, big-eye, dried",Per 100 g,175,39.8,1.7,0.0,0.0,6531,100,PH
+G206,"Scad, big-eye, smoked",Per 100 g,134,25.5,3.6,0.0,0.0,1233,100,PH
+G207,"Scad, round, dried",Per 100 g,199,41.1,3.8,0.0,0.0,6751,100,PH
+G208,"Scad, round, smoked",Per 100 g,158,31.6,3.5,0.0,0.0,1478,100,PH
+G209,"Sea bass, dried",Per 100 g,244,44.0,7.6,0.0,0.0,4869,100,PH
+G210,"Shrimp, freshwater (small), dried",Per 100 g,246,23.1,2.3,33.2,0.0,3129,100,PH
+G211,"Shrimp, sergestid, dried",Per 100 g,283,52.4,3.6,10.2,0.0,2900,100,PH
+G212,"Shrimp, small marine, dried",Per 100 g,263,57.4,2.2,3.4,0.0,2774,100,PH
+G213,"Siganid, javan, dried",Per 100 g,184,42.5,1.6,0.0,0.0,5814,100,PH
+G215,"Slipmouth, common, dried",Per 100 g,185,36.0,4.5,0.0,0.0,6101,100,PH
+G216,"Slipmouth, common, dried",Per 100 g,214,42.8,4.7,0.0,0.0,6939,100,PH
+G217,"Squid, dried",Per 100 g,289,62.3,4.4,0.0,0.0,864,100,PH
+G218,"Sting ray, honeycomb, dried",Per 100 g,209,49.0,0.9,1.3,0.0,-,100,PH
+G219,"Surgeonfish, blue-lined, dried",Per 100 g,186,34.7,5.2,0.0,0.0,4852,100,PH
+G220,"Swordfish, dried",Per 100 g,250,53.5,4.0,0.0,0.0,6310,100,PH
+G221,"Theraponid, silvery, dried",Per 100 g,340,54.6,13.5,0.0,0.0,-,100,PH
+G222,"Tilapia, dried",Per 100 g,313,60.6,7.8,0.0,0.0,10392,100,PH
+G223,"Tuna adobo, cnd",Per 100 g,140,14.0,7.6,4.0,0.0,309,100,PH
+G224,"Tuna fillet, in soya oil, cnd",Per 100 g,309,28.6,21.6,0.0,0.0,577,100,PH
+G225,"Tuna fillet, in veg oil, cnd",Per 100 g,258,28.0,15.9,0.6,0.0,516,100,PH
+G226,"Tuna flakes, in brine, cnd",Per 100 g,95,17.9,2.6,0.1,0.0,316,100,PH
+G227,"Tuna flakes, in veg oil, cnd",Per 100 g,309,15.4,26.7,1.7,0.0,503,100,PH
+G228,"Tuna mechado, cnd",Per 100 g,121,11.1,5.7,6.3,0.5,408,100,PH
+G229,"Tuna sardines, in oil, cnd",Per 100 g,183,16.4,12.5,1.3,0.0,357,100,PH
+G230,"Tuna spread, cnd",Per 100 g,331,25.2,25.6,0.0,2.5,881,100,PH
+G231,"Tuna, frigate, dried",Per 100 g,251,52.7,2.4,4.7,0.0,6050,100,PH
+G232,"Tuna, yellow-fin, dried",Per 100 g,230,54.5,1.3,0.0,0.0,5916,100,PH
+H001,"Egg, ant",Per 100 g,124,17.4,3.8,5.0,0.0,45,100,PH
+H002,"Egg, chicken, white",Per 100 g,61,12.7,0.2,2.0,0.0,240,100,PH
+H003,"Egg, chicken, whole",Per 100 g,139,12.3,9.4,1.4,0.0,128,100,PH
+H004,"Egg, chicken, whole, boiled",Per 100 g,166,14.0,12.0,0.6,0.0,136,100,PH
+H005,"Egg, chicken, yolk",Per 100 g,316,14.3,27.0,3.9,0.0,108,100,PH
+H006,"Egg, duck, white",Per 100 g,56,13.8,0.1,0.0,0.0,228,100,PH
+H007,"Egg, duck, whole",Per 100 g,177,11.7,12.6,4.1,0.0,191,100,PH
+H008,"Egg, duck, yolk",Per 100 g,357,16.4,31.0,3.1,0.0,105,100,PH
+H010,"Egg, quail",Per 100 g,153,11.8,10.6,2.7,0.0,143,100,PH
+H011,"Egg, quail, boiled",Per 100 g,150,11.8,10.4,2.2,0.0,105,100,PH
+H015,"Egg, duck, century",Per 100 g,215,12.5,11.6,15.1,0.0,385,100,PH
+H016,"Egg, duck, fertilized, boiled",Per 100 g,172,12.8,12.4,2.2,0.0,141,100,PH
+H017,"Egg, duck, fertilized, embryo",Per 100 g,55,9.6,0.7,2.6,0.0,69,100,PH
+H018,"Egg, duck, fertilized, white",Per 100 g,137,25.4,0.6,7.6,0.0,539,100,PH
+H019,"Egg, duck, fertilized, yolk",Per 100 g,352,14.8,31.2,2.9,0.0,102,100,PH
+H020,"Egg, duck, infertile, boiled",Per 100 g,198,13.6,14.4,3.5,0.0,211,100,PH
+H021,"Egg, duck, whole, salted",Per 100 g,192,13.6,13.3,4.4,0.0,483,100,PH
+H022,"Egg, quail, pickled",Per 100 g,102,8.1,6.9,1.8,0.1,852,100,PH
+H023,"Egg mass, sea hare",Per 100 g,17,2.4,0.2,1.3,-,-,100,PH
+J001,"Cheese, cheddar, pasteurized, processed",Per 100 g,322,21.7,22.7,7.8,0.0,1337,100,PH
+J002,"Cheese, cottage",Per 100 g,94,13.2,3.0,3.6,0.0,385,100,PH
+J003,"Cheese, filled",Per 100 g,297,16.2,23.4,5.5,0.0,1297,100,PH
+J004,"Cheese, native",Per 100 g,299,13.2,25.0,5.3,0.0,865,100,PH
+J005,"Cheese, pimiento",Per 100 g,354,19.9,27.9,5.8,0.1,901,100,PH
+J006,"Cheese, spread",Per 100 g,210,14.0,11.0,13.7,0.0,1391,100,PH
+J007,Cream,Per 100 g,241,2.3,23.9,4.2,0.0,39,100,PH
+J008,Ice cream,Per 100 g,157,4.2,9.5,13.7,0.5,58,100,PH
+J009,"Ice cream, strawberry flvr",Per 100 g,183,3.4,10.9,17.7,0.7,49,100,PH
+J010,"Milk drink, cultured",Per 100 g,71,1.2,0.2,16.0,0.0,61,100,PH
+J011,"Milk drink, recon, strawberry, UHT",Per 100 g,66,2.9,1.2,10.8,0.0,39,100,PH
+J012,"Milk, buttermilk",Per 100 g,43,3.5,0.5,6.2,0.0,68,100,PH
+J013,"Milk, carabao",Per 100 g,124,5.4,9.5,4.3,0.0,56,100,PH
+J014,"Milk, cow",Per 100 g,65,3.3,3.6,4.8,0.0,52,100,PH
+J015,"Milk, evaporated",Per 100 g,148,7.7,7.8,11.7,0.0,117,100,PH
+J016,"Milk, evaporated, filled",Per 100 g,120,7.6,4.8,11.6,0.0,123,100,PH
+J017,"Milk, goat",Per 100 g,73,3.6,4.1,5.3,0.0,52,100,PH
+J018,"Milk, human",Per 100 g,68,1.4,3.5,7.6,0.0,19,100,PH
+J019,"Milk, pwdr, filled, inst",Per 100 g,508,26.2,28.0,37.8,0.0,466,100,PH
+J020,"Milk, pwdr, full cream",Per 100 g,480,24.1,22.5,45.2,0.0,320,100,PH
+J021,"Milk, pwdr, infant formula",Per 100 g,389,18.3,3.0,72.2,0.0,188,100,PH
+J022,"Milk, pwdr, non-fat, inst",Per 100 g,361,34.9,1.0,53.1,0.0,551,100,PH
+J023,"Milk, pwdr, skim",Per 100 g,362,40.8,0.8,48.0,0.0,496,100,PH
+J024,"Milk, recombined",Per 100 g,87,5.2,5.5,4.2,0.0,40,100,PH
+J025,"Milk, sweetn, cond, filled",Per 100 g,334,8.5,7.0,59.3,0.0,109,100,PH
+J026,Yoghurt,Per 100 g,83,5.3,4.5,5.4,0.0,35,100,PH
+K001,Butter,Per 100 g,772,0.5,85.5,0.0,0.0,550,100,PH
+K002,Coconut milk,Per 100 g,343,5.5,34.8,1.9,2.1,18,100,PH
+K003,"Fat, pork",Per 100 g,900,0.0,100.0,0.0,0.0,0,100,PH
+K004,Margarine,Per 100 g,831,0.3,91.9,0.5,0.0,752,100,PH
+K006,"Margarine, fortified",Per 100 g,818,0.1,90.8,0.0,0.0,724,100,PH
+K007,Mayonnaise,Per 100 g,715,1.2,78.3,1.4,0.0,506,100,PH
+K008,"Oil, coconut",Per 100 g,892,0.0,99.1,0.0,0.0,0,100,PH
+K009,"Oil, corn",Per 100 g,896,0.0,99.6,0.0,0.0,0,100,PH
+K010,"Oil, fish",Per 100 g,900,0.0,100.0,0.0,0.0,0,100,PH
+K011,Sandwich spread,Per 100 g,366,0.7,29.4,24.7,0.4,965,100,PH
+M001,"Breadfruit, candied",Per 100 g,341,0.6,0.5,83.4,-,100,100,PH
+M002,"Candy bar, peanut",Per 100 g,535,20.3,29.9,46.1,4.1,155,100,PH
+M003,"Candy bar, pili nut",Per 100 g,537,5.7,30.1,60.7,4.1,155,100,PH
+M004,"Candy, custard",Per 100 g,381,4.1,1.6,87.6,0.0,159,100,PH
+M005,"Candy, hard",Per 100 g,401,0.1,1.8,96.0,0.0,38,100,PH
+M006,"Candy, milk choc",Per 100 g,518,9.8,26.4,60.2,3.4,84,100,PH
+M007,"Candy, pili nut",Per 100 g,639,7.5,52.7,33.6,-,156,100,PH
+M008,"Candy, pulled",Per 100 g,386,0.6,0.2,95.4,0.0,259,100,PH
+M009,"Candy, toffee",Per 100 g,367,2.2,0.3,88.8,0.0,247,100,PH
+M010,"Carageenan gel, assorted fruit-flvr",Per 100 g,121,0.0,1.2,27.5,0.0,139,100,PH
+M011,Caramelo,Per 100 g,398,0.0,0.0,99.5,0.0,267,100,PH
+M012,Champoy,Per 100 g,390,0.3,0.8,95.5,-,-,100,PH
+M013,"Chocolate, tablea",Per 100 g,481,4.3,18.2,75.1,28.9,268,100,PH
+M014,Coco jam,Per 100 g,377,1.0,1.8,89.2,0.7,142,100,PH
+M015,"Coconut meat, grated, sweetn",Per 100 g,399,2.2,2.1,92.8,5.1,295,100,PH
+M016,Creme custard,Per 100 g,228,5.9,4.3,41.4,0.0,87,100,PH
+M017,"Fudge, durian",Per 100 g,358,13.5,0.2,75.5,0.0,173,100,PH
+M018,"Fudge, jackfruit",Per 100 g,358,8.9,0.3,79.9,0.0,170,100,PH
+M019,"Fudge, milk",Per 100 g,370,9.9,1.4,79.5,0.0,173,100,PH
+M020,"Fudge, yam",Per 100 g,349,8.0,1.5,75.9,0.0,163,100,PH
+M021,Honey,Per 100 g,258,0.1,0.1,64.1,0.2,5,100,PH
+M022,Ice candy,Per 100 g,66,0.0,0.0,16.5,0.0,6,100,PH
+M023,Ice drop,Per 100 g,82,0.6,0.2,19.5,0.0,7,100,PH
+M024,"Jam, jackfruit & pineapple, cnd",Per 100 g,198,0.7,0.1,48.6,0.8,23,100,PH
+M025,"Jam, mango, cnd",Per 100 g,287,0.9,0.2,70.5,0.6,10,100,PH
+M026,"Jam, pineapple",Per 100 g,298,0.2,1.1,71.7,1.1,9,100,PH
+M027,"Jam, yam",Per 100 g,296,7.1,0.4,66.1,1.2,35,100,PH
+M028,"Jelly, guava",Per 100 g,345,0.0,0.8,84.5,1.2,37,100,PH
+M030,"Jelly, pineapple",Per 100 g,310,0.1,0.7,75.9,1.1,33,100,PH
+M031,"Jelly, strawberry",Per 100 g,255,0.1,1.0,61.4,0.9,27,100,PH
+M032,Masareal,Per 100 g,484,13.9,21.2,59.4,2.4,427,100,PH
+M033,Marshmallow,Per 100 g,317,3.0,0.3,75.6,0.1,76,100,PH
+M034,"Milk choc bar, orange crunch",Per 100 g,535,2.7,28.7,66.5,1.0,54,100,PH
+M035,"Nata de coco, sweetn",Per 100 g,146,0.0,0.2,36.1,0.8,4,100,PH
+M036,"Nata de piña, sweetn",Per 100 g,181,0.1,0.2,44.6,0.9,5,100,PH
+M037,Peanut brittle,Per 100 g,493,15.0,24.2,53.9,2.4,424,100,PH
+M038,Peanut brittle w/ sesame seed,Per 100 g,522,14.0,27.6,54.4,2.5,436,100,PH
+M039,"Peanut, milk choc-coated",Per 100 g,506,13.8,25.2,56.0,4.7,87,100,PH
+M040,Polvoron,Per 100 g,469,6.8,16.4,73.6,1.2,194,100,PH
+M041,"Popsicle, choc flvr",Per 100 g,83,0.8,0.5,18.8,0.0,7,100,PH
+M042,"Sugar, brown",Per 100 g,398,0.1,0.3,98.7,0.0,15,100,PH
+M043,"Sugar, crude, pakaskas",Per 100 g,346,2.2,0.2,83.9,0.0,102,100,PH
+M044,"Sugar, crude, panocha",Per 100 g,376,0.2,0.4,92.8,0.0,27,100,PH
+M045,"Sugar, pwdr",Per 100 g,400,0.0,0.0,100.0,0.0,2,100,PH
+M046,"Sugar, white, refined",Per 100 g,400,0.0,0.0,99.9,0.0,1,100,PH
+M047,Syrup,Per 100 g,308,0.0,0.1,76.8,0.0,61,100,PH
+M048,"Syrup, molasses, cane",Per 100 g,260,1.8,0.4,62.4,0.0,33,100,PH
+M049,"Tamarind, candied",Per 100 g,335,0.4,0.7,81.7,-,98,100,PH
+M050,"Wax gourd, candied",Per 100 g,327,0.2,0.1,81.2,1.6,96,100,PH
+M051,"Sugar, coconut sap",Per 100 g,385,1.2,0.1,94.8,0.0,112,100,PH
+M052,"Syrup, coconut sap",Per 100 g,321,1.0,0.1,79.1,0.6,126,100,PH
+N001,"Bilimbi, dried",Per 100 g,401,11.4,9.0,68.5,-,21,100,PH
+N002,"Bouillon cube, beef",Per 100 g,284,10.4,21.2,13.0,0.0,24149,100,PH
+N003,"Bouillon cube, chicken",Per 100 g,306,15.3,22.3,11.0,0.0,23606,100,PH
+N004,"Catsup, banana",Per 100 g,221,0.7,0.2,54.0,0.6,1668,100,PH
+N005,"Catsup, tomato",Per 100 g,131,1.6,0.6,29.9,0.3,1021,100,PH
+N006,"Clam paste, ginamos",Per 100 g,69,7.5,0.4,8.9,0.0,2357,100,PH
+N007,"Fish paste, anchovy",Per 100 g,133,10.0,2.5,17.5,0.0,4014,100,PH
+N008,"Fish paste, balatohan",Per 100 g,162,8.1,3.2,25.1,0.0,5261,100,PH
+N009,"Fish paste, ginamos",Per 100 g,110,23.4,1.8,0.0,0.0,3391,100,PH
+N010,"Fish paste, siganid fry",Per 100 g,54,9.6,1.7,0.0,0.0,2592,100,PH
+N011,Fish sauce,Per 100 g,49,10.6,0.3,0.9,0.0,5061,100,PH
+N013,Lechon sauce,Per 100 g,118,1.2,0.3,27.6,1.2,1164,100,PH
+N014,Lemon grass lvs,Per 100 g,111,1.4,1.4,23.1,3.3,10,100,PH
+N015,"Lemon grass lvs, boiled",Per 100 g,57,0.3,0.3,13.2,1.7,5,100,PH
+N016,"Banana, flowers, dried",Per 100 g,329,9.6,1.3,69.6,-,-,100,PH
+N017,Oyster paste,Per 100 g,54,3.7,1.8,5.8,0.0,2015,100,PH
+N018,"Safflower, flowers, dried",Per 100 g,340,16.2,4.3,59.0,3.8,121,100,PH
+N019,"Salt, coarse",Per 100 g,0,0.0,0.0,0.0,0.0,34836,100,PH
+N020,Shrimp paste,Per 100 g,68,12.5,1.9,0.1,1.3,4396,100,PH
+N021,"Shrimp paste, alamang",Per 100 g,61,12.4,1.0,0.6,1.3,4396,100,PH
+N022,"Shrimp paste, bastos",Per 100 g,57,12.0,0.8,0.4,1.4,4697,100,PH
+N023,Soy sauce,Per 100 g,75,3.5,0.1,15.0,1.0,2041,100,PH
+N024,Tomato paste,Per 100 g,112,4.3,0.1,23.4,4.6,894,100,PH
+N025,Tomato sauce,Per 100 g,45,0.9,0.2,10.0,2.1,658,100,PH
+N027,"Vinegar, coconut",Per 100 g,7,0.0,0.1,1.4,0.0,1,100,PH
+N028,"Vinegar, palm",Per 100 g,11,0.2,0.0,2.6,0.0,1,100,PH
+N029,"Vinegar, pineapple",Per 100 g,7,0.1,0.1,1.3,0.0,1,100,PH
+N030,Worcestershire sauce,Per 100 g,31,0.7,0.3,6.3,0.0,649,100,PH
+N031,"Shrimp paste, sauteed",Per 100 g,401,10.2,32.1,17.7,0.9,1130,100,PH
+P001,"Beer, lager type",Per 100 g,16,0.3,0.0,3.6,0.0,2,100,PH
+P002,"Palm sap, fermented",Per 100 g,35,0.2,0.3,7.9,0.0,3,100,PH
+P003,Rum,Per 100 g,1,0.0,0.0,0.2,0.0,0,100,PH
+P004,"Sugarcane, fermented",Per 100 g,21,0.0,0.1,5.0,0.0,2,100,PH
+P005,"Wine, Chinese",Per 100 g,30,0.0,0.0,7.4,0.0,3,100,PH
+Q001,"Ceylon moss/Agar-agar, in light syrup",Per 100 g,56,0.0,2.5,8.3,0.1,5,100,PH
+Q002,"Choc-flvr drink, prep",Per 100 g,80,1.5,0.3,17.7,1.9,53,100,PH
+Q003,"Choc-flvr drink, pwdr",Per 100 g,394,5.7,3.6,84.8,4.8,190,100,PH
+Q004,"Choc-flvr drink, UHT",Per 100 g,78,3.0,2.1,11.8,0.3,22,100,PH
+Q005,"Choc-flvr energy drnk, granules, fortified",Per 100 g,406,11.0,6.6,75.7,4.7,187,100,PH
+Q006,"Choc-flvr energy drnk, pwdr, fortified",Per 100 g,432,13.8,11.6,68.0,4.8,189,100,PH
+Q007,"Choc-flvr food milk, pwdr",Per 100 g,398,21.7,5.0,66.7,4.4,134,100,PH
+Q008,"Cocoa, pwdr, imported",Per 100 g,474,20.0,21.1,51.0,9.5,95,100,PH
+Q009,"Cocoa, pwdr, local",Per 100 g,465,21.7,19.8,49.9,9.6,96,100,PH
+Q010,Coconut water,Per 100 g,22,0.0,0.2,5.1,1.2,1,100,PH
+Q011,"Coffee, creamer & sugar (3 in 1)",Per 100 g,392,3.6,0.8,92.5,0.0,65,100,PH
+Q012,"Coffee, inst, 100% pure",Per 100 g,329,21.6,0.1,60.3,0.0,37,100,PH
+Q013,"Coffee, roasted",Per 100 g,406,15.2,7.1,70.4,20.5,77,100,PH
+Q014,"Coffee, soybean, w/ seed coat",Per 100 g,442,39.0,17.1,32.9,-,-,100,PH
+Q015,"Coffee, soybean, w/o seed coat",Per 100 g,492,39.5,23.0,31.8,-,-,100,PH
+Q016,"Fruit jce drnk conc, calamansi",Per 100 g,239,0.2,0.6,58.3,0.3,4,100,PH
+Q017,"Fruit jce drnk conc, grape",Per 100 g,257,0.2,0.4,63.2,0.4,39,100,PH
+Q018,"Fruit jce drnk conc, grapefruit",Per 100 g,230,0.0,1.3,54.6,0.6,4,100,PH
+Q019,"Fruit jce drnk conc, guyabano",Per 100 g,109,0.3,0.3,26.3,1.3,13,100,PH
+Q020,"Fruit jce drnk conc, mango",Per 100 g,75,0.2,0.2,18.2,0.4,7,100,PH
+Q021,"Fruit jce drnk conc, orange",Per 100 g,244,0.0,0.7,59.5,0.9,9,100,PH
+Q022,"Fruit jce drnk, apple, ttb",Per 100 g,50,0.1,0.2,12.0,0.2,4,100,PH
+Q023,"Fruit jce drnk, citrus cooler, ttb",Per 100 g,47,0.1,0.2,11.2,0.1,4,100,PH
+Q025,"Fruit jce drnk, grape, ttpk",Per 100 g,45,0.2,0.1,10.8,0.1,7,100,PH
+Q026,"Fruit jce drnk, guava, ttpk",Per 100 g,46,0.1,0.3,10.7,0.7,2,100,PH
+Q027,"Fruit jce drnk, guyabano, btl",Per 100 g,75,0.1,1.0,16.3,3.1,4,100,PH
+Q028,"Fruit jce drnk, mango, btl",Per 100 g,57,0.2,0.2,13.7,0.3,10,100,PH
+Q029,"Fruit jce drnk, mango, polyfoil",Per 100 g,49,0.1,0.2,11.6,0.3,9,100,PH
+Q030,"Fruit jce drnk, mango, ttb",Per 100 g,49,0.1,0.2,11.8,0.3,9,100,PH
+Q031,"Fruit jce drnk, orange & pineapple, ttb",Per 100 g,47,0.1,0.2,11.2,0.1,3,100,PH
+Q032,"Fruit jce drnk, orange, btl",Per 100 g,43,0.2,0.2,10.1,0.2,2,100,PH
+Q033,"Fruit jce drnk, orange, polyfoil",Per 100 g,49,0.1,0.2,11.8,0.2,2,100,PH
+Q034,"Fruit jce drnk, orange, ttb",Per 100 g,46,0.1,0.2,10.9,0.2,2,100,PH
+Q035,"Fruit jce drnk, pineapple & lychee, ttb",Per 100 g,51,0.2,0.5,11.3,-,-,100,PH
+Q036,"Fruit jce drnk, pineapple & orange, cnd",Per 100 g,48,0.1,0.1,11.6,0.1,3,100,PH
+Q037,"Fruit jce drnk, pineapple, ttb",Per 100 g,46,0.2,0.3,10.6,0.2,2,100,PH
+Q038,"Fruit jce drnk, strawberry, polyfoil",Per 100 g,50,0.0,0.2,12.0,0.0,5,100,PH
+Q039,"Fruit jce drnk, sugarcane, ttb",Per 100 g,51,0.2,0.1,12.2,0.6,1,100,PH
+Q040,"Fruit-flvr drnk conc, orange",Per 100 g,237,0.2,0.5,58.0,0.9,9,100,PH
+Q041,"Fruit-flvr drnk conc, strawberry",Per 100 g,272,0.1,0.7,66.4,0.0,26,100,PH
+Q042,"Fruit-flvr drnk, pwdr, orange",Per 100 g,407,0.0,2.2,96.8,0.4,17,100,PH
+Q043,"Juice, apple, cnd",Per 100 g,65,0.1,0.2,15.7,0.3,5,100,PH
+Q044,"Juice, calamansi (nectar)",Per 100 g,150,0.1,0.4,36.4,1.6,8,100,PH
+Q045,"Juice, mango",Per 100 g,56,0.4,0.7,12.1,1.1,4,100,PH
+Q046,"Juice, orange, unsweetn, cnd",Per 100 g,46,0.7,0.3,10.2,0.3,4,100,PH
+Q047,"Juice, pineapple & grapefruit, cnd",Per 100 g,63,1.2,0.5,13.4,0.1,18,100,PH
+Q048,"Juice, pineapple, cnd",Per 100 g,62,0.0,0.1,15.3,0.2,2,100,PH
+Q049,"Juice, sugarcane",Per 100 g,50,0.1,0.2,11.9,0.6,1,100,PH
+Q050,"Juice, tomato, cnd",Per 100 g,25,0.8,0.2,4.9,0.5,182,100,PH
+Q051,"Lemon tea drink, ttb",Per 100 g,51,0.0,0.3,12.0,0.0,29,100,PH
+Q052,Sago in light syrup,Per 100 g,73,0.0,1.2,15.5,0.0,5,100,PH
+Q053,"Softdrink, cola",Per 100 g,41,0.0,0.1,9.9,0.0,4,100,PH
+Q054,"Softdrink, orange flvr",Per 100 g,46,0.0,0.0,11.6,0.0,12,100,PH
+Q055,"Soy drink, pwdr, plain",Per 100 g,449,21.8,13.7,59.6,6.9,753,100,PH
+Q056,"Soy drnk, pwdr, corn flvr",Per 100 g,448,19.4,13.6,62.0,6.8,749,100,PH
+Q057,"Soy drnk, pwdr, pandan flvr",Per 100 g,414,18.3,6.5,70.6,6.9,752,100,PH
+Q058,"Soybean milk drink, choc-flvr",Per 100 g,76,2.2,0.3,16.1,0.5,70,100,PH
+Q059,Soybean milk drnk,Per 100 g,51,2.6,0.8,8.3,0.6,2,100,PH
+Q060,"Tea lvs, dried",Per 100 g,357,21.7,1.0,65.3,8.3,70,100,PH
+Q061,Young coconut (shredded) drnk,Per 100 g,39,0.2,0.2,9.0,1.2,7,100,PH
+Q062,"Tea, prep w/ water, no sugar",Per 100 g,1,0.1,0.0,0.2,0.0,1,100,PH
+R001,Cheese pimiento sandwich,Per 100 g,268,9.6,8.0,39.3,2.2,697,100,PH
+R002,Cheese sandwich,Per 100 g,302,11.2,6.2,50.3,2.3,320,100,PH
+R003,Cheeseburger sandwich,Per 100 g,250,11.2,9.5,30.0,1.7,441,100,PH
+R004,"Steamed bun, mung bean filling",Per 100 g,279,6.7,2.9,56.4,-,-,100,PH
+R005,"Steamed bun, pork filling",Per 100 g,294,9.2,11.2,39.0,-,-,100,PH
+R006,Glutinous rice w/ mung bean & cocomilk,Per 100 g,130,1.8,3.0,24.0,2.7,9,100,PH
+R007,Hamburger sandwich w/ coleslaw,Per 100 g,246,12.1,8.4,30.5,-,481,100,PH
+R008,"Hamburger sandwich, reg",Per 100 g,265,14.0,9.9,30.1,1.5,300,100,PH
+R009,Meat pie,Per 100 g,435,11.9,24.8,41.1,2.5,555,100,PH
+R010,Meat roll,Per 100 g,313,10.4,10.4,44.4,2.1,470,100,PH
+R011,Rice gruel w/ chicken,Per 100 g,63,2.0,0.4,12.8,0.5,453,100,PH
+R012,Rice gruel w/ choc & milk,Per 100 g,97,1.7,0.2,22.0,0.7,13,100,PH
+R013,Rice gruel w/ tripe,Per 100 g,53,2.0,1.3,8.3,0.1,179,100,PH
+R014,"Spaghetti, meat balls & tomato sce, cnd",Per 100 g,83,4.8,1.0,13.8,2.7,277,100,PH
+R015,"Spaghetti, Vienna sausage & tomato sce, cnd",Per 100 g,86,2.9,1.7,14.8,1.5,276,100,PH
+R016,Buko pie,Per 100 g,266,4.4,7.2,45.9,2.0,380,100,PH
+R017,Egg pie,Per 100 g,228,9.6,3.5,40.0,2.2,383,100,PH
+R018,"Halu-halo, cnd",Per 100 g,242,2.3,0.3,57.4,-,-,100,PH
+R019,"Halu-halo, w/ ice",Per 100 g,82,1.0,0.3,18.7,-,-,100,PH
+R020,Pineapple pie,Per 100 g,279,1.1,0.3,67.9,-,306,100,PH
+R021,Pizza pie,Per 100 g,271,10.3,5.8,44.4,2.6,518,100,PH
+R022,"Milk fish, w/ black beans, cnd",Per 100 g,243,18.6,18.7,0.0,0.3,536,100,PH
+R023,"Spring roll, crab, unckd",Per 100 g,207,5.8,2.6,40.1,1.2,454,100,PH
+R024,"Spring roll, fish, unckd",Per 100 g,185,5.9,0.2,40.0,1.2,288,100,PH
+R025,"Spring roll, shrimp, unckd",Per 100 g,200,6.3,0.2,43.2,1.2,304,100,PH
+R026,"Beef & tomato spread, cnd",Per 100 g,193,9.8,11.7,12.1,-,-,100,PH
+R027,"Beef caldereta, cnd",Per 100 g,284,13.3,24.9,1.6,1.1,315,100,PH
+R028,"Beef callos, cnd",Per 100 g,144,9.6,7.3,9.9,1.6,303,100,PH
+R029,"Beef curry, cnd",Per 100 g,165,9.5,11.2,6.6,-,169,100,PH
+R030,"Beef hamburger w/ tomato sce, cnd",Per 100 g,145,9.4,4.6,16.5,0.9,467,100,PH
+R031,"Beef kare-kare, cnd",Per 100 g,64,9.0,1.1,4.4,1.5,109,100,PH
+R032,"Beef roll, mechado, cnd",Per 100 g,140,11.6,8.7,3.8,1.2,329,100,PH
+R033,"Beef roll, morcon, cnd",Per 100 g,187,13.9,8.0,14.9,0.2,388,100,PH
+R034,"Beef steak, cnd",Per 100 g,161,9.6,11.8,4.0,0.6,331,100,PH
+R035,"Beef stew, cnd",Per 100 g,169,9.5,11.4,7.1,1.4,606,100,PH
+R036,"Beef w/ gravy, cnd",Per 100 g,101,12.1,5.8,0.0,-,243,100,PH
+R037,"Beef w/ mushroom sce, cnd",Per 100 g,103,13.3,3.7,4.0,0.3,1110,100,PH
+R038,"Beef w/chickpeas, cnd",Per 100 g,95,6.3,3.0,10.6,2.2,335,100,PH
+R039,"Beef, chili con carne, cnd",Per 100 g,94,7.5,1.8,11.9,-,434,100,PH
+R040,"Chicken stew, cnd",Per 100 g,72,3.6,2.7,8.3,0.6,359,100,PH
+R041,"Corned beef hash, cnd",Per 100 g,104,8.4,3.1,10.7,0.9,315,100,PH
+R042,"Duck meat, pato tim, cnd",Per 100 g,134,11.0,8.7,2.8,0.0,199,100,PH
+R045,"Meat ball & quail egg, sw & sr sce, cnd",Per 100 g,207,9.8,13.1,12.4,0.6,226,100,PH
+R047,"Pork & chicken adobo, cnd",Per 100 g,189,14.5,14.6,0.0,0.2,201,100,PH
+R050,"Pork adobo, cnd",Per 100 g,277,10.3,24.8,3.1,0.3,254,100,PH
+R051,"Pork adobo, w/ egg, cnd",Per 100 g,261,13.4,20.2,6.3,0.3,237,100,PH
+R052,"Pork afritada, cnd",Per 100 g,123,6.3,8.1,6.3,1.3,248,100,PH
+R053,"Pork blood stew, cnd",Per 100 g,155,14.8,10.6,0.0,0.2,-,100,PH
+R054,"Pork humba, cnd",Per 100 g,127,7.1,4.7,14.0,-,-,100,PH
+R055,"Pork leg w/ mushroom sce, cnd",Per 100 g,271,7.7,19.7,15.7,0.3,513,100,PH
+R056,"Pork leg, mushroom & chestnut, cnd",Per 100 g,228,12.0,19.6,0.8,0.9,554,100,PH
+R057,"Pork leg, pinaksiw, cnd",Per 100 g,188,13.1,12.1,6.6,0.3,294,100,PH
+R058,"Pork pastel, cnd",Per 100 g,147,8.8,10.4,4.6,0.7,262,100,PH
+R059,"Pork w/ black beans, cnd",Per 100 g,215,11.2,16.2,6.1,1.9,351,100,PH
+R060,"Pork, roasted, pinaksiw, cnd",Per 100 g,214,12.8,15.2,6.4,0.2,326,100,PH
+R061,"Roast beef hash, cnd",Per 100 g,201,15.0,12.0,8.2,1.4,523,100,PH
+R062,"Spring roll, beef, unckd",Per 100 g,202,7.6,1.2,40.3,1.2,279,100,PH
+R063,"Spring roll, chicken, unckd",Per 100 g,224,5.7,4.8,39.6,1.2,277,100,PH
+R064,"Spring roll, Shanghai, unckd",Per 100 g,266,5.8,10.0,38.3,1.2,275,100,PH
+R065,"Chicken noodle broth, inst",Per 100 g,61,1.7,1.8,9.5,0.0,2338,100,PH
+R066,"Soup, beans w/ bacon, cond, cnd",Per 100 g,50,2.6,0.6,8.6,2.7,291,100,PH
+R067,"Soup, beef & veg, cnd",Per 100 g,60,3.3,2.7,5.7,1.4,385,100,PH
+R068,"Soup, bird's nest (nido), cond, cnd",Per 100 g,45,1.3,2.1,5.3,0.2,226,100,PH
+R069,"Soup, chicken & asparagus, cnd",Per 100 g,20,2.1,0.6,1.5,0.7,184,100,PH
+R070,"Soup, chicken & veg, cnd",Per 100 g,33,1.2,0.3,6.3,0.9,239,100,PH
+R071,"Soup, chicken & veg, cond, cnd",Per 100 g,60,2.0,3.4,5.4,0.6,624,100,PH
+R072,"Soup, chicken noodle, cnd",Per 100 g,49,2.6,1.6,6.0,0.9,351,100,PH
+R073,"Soup, corn potage, cond, cnd",Per 100 g,92,3.5,0.4,18.7,3.3,219,100,PH
+R074,"Soup, cream of asparagus, cond, cnd",Per 100 g,79,1.8,4.2,8.5,0.4,667,100,PH
+R075,"Soup, cream of chicken, cond, cnd",Per 100 g,62,2.5,2.0,8.4,0.0,615,100,PH
+R076,"Soup, cream of mushroom, cnd",Per 100 g,102,1.7,6.7,8.7,0.9,872,100,PH
+R077,"Soup, mungbean w/ shrimp, ckd",Per 100 g,50,3.1,0.5,8.3,2.8,180,100,PH
+R078,"Soup, noodles & beef, cond, cnd",Per 100 g,55,1.9,2.3,6.7,0.5,536,100,PH
+R079,"Soup, pansit molo, cond, cnd",Per 100 g,54,2.4,2.4,5.6,0.3,566,100,PH
+R081,"Soup, sotanghon, cond",Per 100 g,27,0.8,1.4,2.8,0.2,233,100,PH
+R082,"Soup, turkey noodle, cnd",Per 100 g,42,2.4,0.4,7.3,0.5,572,100,PH
+R083,"Soup, veg alphabet, cnd",Per 100 g,69,2.0,1.4,12.0,1.5,494,100,PH
+R084,"Soup, veg, cond, cnd",Per 100 g,25,1.1,0.4,4.2,0.2,226,100,PH
+R085,"Soup, vermicelli & chicken, cond, cnd",Per 100 g,38,1.3,1.2,5.5,0.1,167,100,PH
+R086,"Pork & beans, cnd",Per 100 g,105,4.7,1.8,17.6,5.3,333,100,PH
+R088,"Hotcake, prep, w/ MLP",Per 100 g,242,5.3,7.1,39.3,2.2,438,100,PH
+R089,"Polvoron, prep, w/ MLP",Per 100 g,497,9.2,23.4,62.3,7.1,173,100,PH
+R090,"Gelatin drink, w/ MLP",Per 100 g,63,0.9,0.8,13.0,1.6,21,100,PH
+R091,"Ice candy, prep, w/ MLP",Per 100 g,96,1.4,1.1,20.1,3.8,21,100,PH
+R092,"Yacon shake, prep",Per 100 g,77,0.2,0.2,18.7,0.2,12,100,PH
+R093,"Carbonara, prep, w/ MLP",Per 100 g,148,5.5,6.4,17.2,5.5,270,100,PH
+R094,"Fruit salad, prep, w/ yacon",Per 100 g,62,0.4,0.3,14.3,1.0,17,100,PH
+R095,"Macaroni salad, prep, w/ yacon",Per 100 g,191,3.4,14.9,10.7,0.5,217,100,PH
+R096,"Waldorf salad, prep, w/ yacon",Per 100 g,177,1.8,11.8,16.0,7.6,216,100,PH
+R097,"Anchovy fry omelet, prep, w/ MLP",Per 100 g,186,13.1,12.8,4.5,1.1,213,100,PH
+R098,"Red snapper fritata, prep, w/ MLP",Per 100 g,260,15.3,19.5,5.7,2.4,436,100,PH
+R099,"Chopsuey, prep, w/ yacon",Per 100 g,70,2.7,2.8,8.5,2.9,354,100,PH
+R100,"Wonton soup, prep, w/ MLP",Per 100 g,93,5.0,5.3,6.3,3.6,320,100,PH
+R101,"Pork wonton, prep, w/ MLP",Per 100 g,217,13.3,10.2,18.0,8.4,245,100,PH
+R102,"Scrambled egg, prep, w/ MLP",Per 100 g,207,10.0,16.5,4.6,1.4,491,100,PH
+R103,"Shanghai pork roll, prep, w/ yacon",Per 100 g,285,10.3,15.5,26.0,2.1,343,100,PH
+R104,"Fried rice mix, w/ yacon",Per 100 g,140,3.0,4.0,23.1,1.8,196,100,PH
+R105,"Vegetable stir-fry w/ quail eggs, prep, w/ yacon",Per 100 g,105,4.2,6.0,8.6,2.9,215,100,PH
+R106,"Vegetable soup, prep, w/ yacon",Per 100 g,34,1.6,0.8,5.1,0.4,214,100,PH
+R107,"Vegetable spring roll, fresh, w/ yacon",Per 100 g,147,3.8,4.2,23.6,2.3,594,100,PH
+R108,"Pork ball, wrapped",Per 100 g,298,10.5,16.7,26.4,0.6,291,100,PH
+S001,"Beef w/ veg, str",Per 100 g,48,3.8,0.3,7.5,1.1,25,100,PH
+S002,"Beef, egg noodle, veg, str",Per 100 g,41,2.8,0.1,7.3,1.1,12,100,PH
+S003,"Carrot, str",Per 100 g,23,0.6,0.1,4.8,1.4,56,100,PH
+S004,"Cereals, applesce & banana, str",Per 100 g,84,1.0,0.8,18.2,1.2,3,100,PH
+S005,"Chicken noodle, str",Per 100 g,50,2.6,0.4,8.9,1.8,33,100,PH
+S006,"Chicken w/ veg, str",Per 100 g,111,8.8,5.4,6.9,3.5,40,100,PH
+S007,"Chicken, asparagus, str",Per 100 g,39,7.9,0.8,0.0,1.1,12,100,PH
+S008,"Cream chicken soup, str",Per 100 g,48,1.8,0.5,9.0,1.2,18,100,PH
+S009,"Custard pudding, choco, str",Per 100 g,87,1.4,0.8,18.6,0.0,0,100,PH
+S010,"Custard pudding, vanilla, str",Per 100 g,94,1.3,1.1,19.7,0.0,0,100,PH
+S011,"Fruit w/ tapioca, str",Per 100 g,91,0.2,1.0,20.4,2.2,0,100,PH
+S013,"Mango & papaya, str",Per 100 g,91,0.2,0.3,21.8,1.8,6,100,PH
+S014,"Mango, str",Per 100 g,87,0.2,1.2,18.8,1.1,4,100,PH
+S015,"Mixed fruits, str",Per 100 g,90,0.2,0.9,20.3,0.9,0,100,PH
+S016,"Mixed veg, str",Per 100 g,42,1.4,0.2,8.7,1.6,0,100,PH
+S017,"Peach, str",Per 100 g,112,0.6,0.3,26.6,2.2,7,100,PH
+S018,"Rice w/ chicken, str",Per 100 g,46,1.6,0.6,8.6,1.0,24,100,PH
+S019,"Squash, str",Per 100 g,33,0.4,0.1,7.5,1.1,6,100,PH
+S021,"Veg, liver & bacon, str",Per 100 g,47,2.1,0.9,7.6,1.3,39,100,PH
+T001,Azolla pinnata,Per 100 g,18,1.4,0.4,2.1,1.9,41,100,PH
+T002,Baking powder,Per 100 g,166,0.2,0.3,40.7,0.2,9997,100,PH
+T004,Ceylon moss/Agar-agar bar,Per 100 g,311,2.6,0.3,74.5,6.9,92,100,PH
+T005,"Coffee creamer, non-dairy",Per 100 g,390,4.1,0.7,91.9,0.0,105,100,PH
+T006,Chlorella,Per 100 g,351,53.3,4.9,23.4,12.4,0,100,PH
+T007,Gelatin powder,Per 100 g,351,85.4,1.0,0.0,0.0,197,100,PH
+T008,Rice washing,Per 100 g,6,0.1,0.2,1.0,0.0,0,100,PH
+T009,"Yeast, baker's, active, dry",Per 100 g,363,37.2,1.3,50.5,26.6,50,100,PH
+T012,Locust,Per 100 g,147,13.7,4.3,13.4,-,-,100,PH
